@@ -1,146 +1,136 @@
-#u2293
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u2293.png") no-repeat 0px 0px;
-}
-
-#u2293:hover
-{
-	background: url("../images/u2293-r.png") no-repeat 0px 0px;
-}
-
-#u143
+#u2473
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u151-4
+#u2479
+{
+	position: relative;
+	background: transparent url("../../images/fb_btn-u2479-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2479:hover
+{
+	background: transparent url("../../images/fb_btn-u2479-r-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u2480
+{
+	position: relative;
+	background: transparent url("../../images/twitter_btn-u2480-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2480:hover
+{
+	background: transparent url("../../images/twitter_btn-u2480-r-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u2430-4
 {
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 18px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u151-4:hover p
+#u2430-4:hover p
 {
 	color: #0AFFEF;
 	visibility: inherit;
 }
 
-#u150-4
+#u2429-4
 {
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 18px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u150-4:hover p
+#u2429-4:hover p
 {
 	color: #0AFFEF;
 	visibility: inherit;
 }
 
-#u152-4
+#u2431-4
 {
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 18px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u152-4:hover p
+#u2431-4:hover p
 {
 	color: #0AFFEF;
 	visibility: inherit;
 }
 
-#u153-4
+#u2432-4
 {
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 18px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u153-4:hover p
+#u2432-4:hover p
 {
 	color: #0AFFEF;
 	visibility: inherit;
 }
 
-#u1507-4
+#u2433-4
 {
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 18px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u1507-4:hover p
+#u2433-4:hover p
 {
 	color: #0AFFEF;
 	visibility: inherit;
 }
 
-#u151-4.MuseLinkActive p,#u150-4.MuseLinkActive p,#u152-4.MuseLinkActive p,#u153-4.MuseLinkActive p,#u1507-4.MuseLinkActive p
+#u2430-4.MuseLinkActive p,#u2429-4.MuseLinkActive p,#u2431-4.MuseLinkActive p,#u2432-4.MuseLinkActive p,#u2433-4.MuseLinkActive p
 {
 	color: #487DC6;
 	visibility: inherit;
 }
 
-#u2484
-{
-	position: relative;
-	background: transparent url("../images/fb_btn-u2484-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u2484:hover
-{
-	background: transparent url("../images/fb_btn-u2484-r-fr.jpg") no-repeat left top;
-	background-size: contain;
-}
-
-#u2485
-{
-	position: relative;
-	background: transparent url("../images/twitter_btn-u2485-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u2485:hover
-{
-	background: transparent url("../images/twitter_btn-u2485-r-fr.jpg") no-repeat left top;
-	background-size: contain;
-}
-
-#u1427-4
+#u2466-4
 {
 	background-color: transparent;
+	line-height: 10px;
+	font-size: 8px;
 	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
