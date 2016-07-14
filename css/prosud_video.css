@@ -1,7 +1,7 @@
 .version.prosud_video /* version checker */
 {
-	color: #0000E3;
-	background-color: #D0C6AF;
+	color: #0000EA;
+	background-color: #11037B;
 }
 
 .html
@@ -29,6 +29,7 @@
 #pppu2293
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 20px;
 	margin-left: 130px;
@@ -198,7 +199,7 @@
 	margin: 9px -10000px 0px 0px;
 }
 
-#u2259
+#u2535
 {
 	z-index: 32;
 	width: 820px;
@@ -207,7 +208,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 70px;
-	margin-top: 83px;
+	margin-top: 85px;
 	position: relative;
 }
 
