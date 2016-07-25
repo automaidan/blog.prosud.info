@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1468482893772">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1469456422284">
   <folder name="css">
     <file name="site_global.css" crc="117349244"/>
-    <file name="master_______-a.css" crc="349971836" ref="prosud_video:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:index"/>
+    <file name="master_______-a.css" crc="466762344" ref="prosud_avramenko_mikola_grigorovich:prosud_video:prosud_garnik_lyudmila__leonidivna:index:prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="prosud_avramenko_mikola_grigorovich.css" crc="478870557" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="3834911954" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="prosud_video.css" crc="3926983547" ref="prosud_video"/>
-    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="86318809" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="529960457" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="231167180" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="381127037" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud_avramenko_mikola_grigorovich.css" crc="36725577" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="499316680" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="index.css" crc="3978635848" ref="index"/>
+    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="42068781" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="105779881" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="index.css" crc="4258933098" ref="index"/>
+    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="528815633" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="4173770507" ref="prosud_sokurenko_dmitro_mihaylovich"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna"/>
@@ -30,8 +30,8 @@
     <file name="twitter_btn-u2485-fr.png" crc="106801748" ref="index"/>
     <file name="twitter_btn-u2485-r-fr.jpg" crc="266809122" ref="index"/>
     <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
-    <file name="avramenko12-crop-u2324.jpg" crc="4234698046" ref="index"/>
-    <file name="sokurenko6-crop-u2321.jpg" crc="4236685384" ref="index"/>
+    <file name="avramenko12-crop-u2324.jpg" crc="4293014172" ref="index"/>
+    <file name="sokurenko6-crop-u2321.jpg" crc="4258729891" ref="index"/>
     <file name="u2312.png" crc="395734126" ref="index"/>
     <file name="u2312-r.png" crc="3826859124" ref="index"/>
     <file name="sokurenko00-crop-u2123.jpg" crc="4266227994" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -145,9 +145,9 @@
     <file name="garnik23.jpg" crc="4262314794" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="audi-q5-4.jpg" crc="4021536704" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
   </folder>
-  <file name="index.html" crc="30567777" seo="true" mt="1468475175168" redirect="true"/>
-  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4227619180" seo="true" mt="1468482393407" redirect="true"/>
+  <file name="index.html" crc="3852258987" seo="true" mt="1468787716985" redirect="true"/>
+  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4210063475" seo="true" mt="1469456264927" redirect="true"/>
   <file name="prosud_video.html" crc="527219854" seo="true" mt="1468482619864" redirect="true"/>
-  <file name="prosud_avramenko_mikola_grigorovich.html" crc="4212680716" seo="true" mt="1468482063090" redirect="true"/>
-  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="3834656693" seo="true" mt="1468481795019" redirect="true"/>
+  <file name="prosud_avramenko_mikola_grigorovich.html" crc="506109282" seo="true" mt="1469456125437" redirect="true"/>
+  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="171487481" seo="true" mt="1469455994255" redirect="true"/>
 </manifest>
