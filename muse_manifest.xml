@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1470663521906">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1470689777730">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="3864891414" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video"/>
@@ -9,7 +9,7 @@
     <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="395564063" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="4181519217" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="231168196" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud_mamchur_yaroslav_stepanovich.css" crc="3967741790" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="prosud_mamchur_yaroslav_stepanovich.css" crc="206211447" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="iefonts_prosud_mamchur_yaroslav_stepanovich.css" crc="217793860" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="4042061017" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="183358708" ref="prosud_shevchenko_oleksandr_vasilovich"/>
@@ -208,5 +208,5 @@
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="349346760" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_garnik_lyudmila__leonidivna.html" crc="316644579" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="3859312479" seo="true" mt="1470641115421" redirect="true"/>
-  <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="40095792" seo="true" mt="1470663117790" redirect="true"/>
+  <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="4273418932" seo="true" mt="1470682568492" redirect="true"/>
 </manifest>
