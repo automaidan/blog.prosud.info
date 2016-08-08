@@ -1,43 +1,48 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1469656501115">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1470653342720">
   <folder name="css">
-    <file name="site_global.css" crc="117349244"/>
-    <file name="master_______-a.css" crc="3809840174" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_shevchenko_oleksandr_vasilovich:prosud_avramenko_mikola_grigorovich:prosud_video:index:prosud_garnik_lyudmila__leonidivna"/>
-    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="409152264" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="4173770507" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="3856017954" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="4093540689" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="prosud_avramenko_mikola_grigorovich.css" crc="3911452999" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="3834911954" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="prosud_video.css" crc="369035100" ref="prosud_video"/>
-    <file name="index.css" crc="3873674462" ref="index"/>
-    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="179946923" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="105779881" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="site_global.css" crc="528814141"/>
+    <file name="master_______-a.css" crc="3864891414" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video"/>
+    <file name="prosud_avramenko_mikola_grigorovich.css" crc="260833958" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="369898295" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="index.css" crc="3818968317" ref="index"/>
+    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="3835397941" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="395564063" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="4181519217" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="231168196" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="prosud_mamchur_yaroslav_stepanovich.css" crc="3802745619" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="iefonts_prosud_mamchur_yaroslav_stepanovich.css" crc="529619631" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="4042061017" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="183358708" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="prosud_video.css" crc="3986925118" ref="prosud_video"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="museutils.js" crc="275725342" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="webpro.js" crc="3883484123" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="touchswipe.js" crc="4218319045" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="museutils.js" crc="4155826306" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="whatinput.js" crc="86476730" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="museconfig.js" crc="328327953" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="require.js" crc="228336483" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="webpro.js" crc="4078243563" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="touchswipe.js" crc="157639107" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="4163179147" ref="index"/>
-    <file name="u2293.png" crc="476890083" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="u2293-r.png" crc="3779852430" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="u2293.png" crc="4089990308" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="u2293-r.png" crc="186900288" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich"/>
     <file name="fb_btn-u2484-fr.png" crc="47479120" ref="index"/>
     <file name="fb_btn-u2484-r-fr.jpg" crc="229970286" ref="index"/>
     <file name="twitter_btn-u2485-fr.png" crc="106801748" ref="index"/>
     <file name="twitter_btn-u2485-r-fr.jpg" crc="266809122" ref="index"/>
-    <file name="shevchenko7336x189.jpg" crc="407556924" seo="true" ref="index"/>
+    <file name="shevchenko7336x189.jpg" crc="448656692" seo="true" ref="index"/>
     <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
-    <file name="avramenko12-crop-u2324.jpg" crc="4234698046" ref="index"/>
-    <file name="sokurenko6-crop-u2321.jpg" crc="4258729891" ref="index"/>
-    <file name="u2312.png" crc="395734126" ref="index"/>
-    <file name="u2312-r.png" crc="3826859124" ref="index"/>
-    <file name="sokurenko00-crop-u2123.jpg" crc="4266227994" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="avramenko12-crop-u2324.jpg" crc="362168929" ref="index"/>
+    <file name="sokurenko6-crop-u2321.jpg" crc="244071909" ref="index"/>
+    <file name="u2312.png" crc="3953825259" ref="index"/>
+    <file name="u2312-r.png" crc="4198272533" ref="index"/>
+    <file name="sokurenko00-crop-u2123.jpg" crc="247913228" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko1.jpg" crc="4040525106" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko2.jpg" crc="519491676" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko3.jpg" crc="4193182101" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -48,11 +53,11 @@
     <file name="sokurenko6.jpg" crc="44918504" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko51.jpg" crc="3817520187" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko81.jpg" crc="4181028334" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko41-crop-u2021.jpg" crc="3966561536" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko71-crop-u2019.jpg" crc="397306280" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko6-crop-u2015.jpg" crc="4248004681" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko51-crop-u2023.jpg" crc="15018257" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko81-crop-u2017.jpg" crc="463421297" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko41-crop-u2021.jpg" crc="3923885175" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko71-crop-u2019.jpg" crc="203996713" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko6-crop-u2015.jpg" crc="3807324946" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko51-crop-u2023.jpg" crc="247418126" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko81-crop-u2017.jpg" crc="352965354" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="loading.gif" crc="3815509949" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="sokurenko9.jpg" crc="384134085" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko11.jpg" crc="4104141016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -62,61 +67,61 @@
     <file name="shokun5.jpg" crc="4057040323" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun8.jpg" crc="4069464575" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun9.jpg" crc="3963028070" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun2-crop-u2086.jpg" crc="4002173050" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun3-crop-u2078.jpg" crc="79415799" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun4-crop-u2076.jpg" crc="3870115123" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun5-crop-u2082.jpg" crc="3775713089" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun8-crop-u2080.jpg" crc="4098872514" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun9-crop-u2084.jpg" crc="193137893" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="toyota_land_cruiser_prado_15034-crop-u2041.jpg" crc="4240293429" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun2-crop-u2086.jpg" crc="330110" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun3-crop-u2078.jpg" crc="504602863" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun4-crop-u2076.jpg" crc="4264989967" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun5-crop-u2082.jpg" crc="344954539" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun8-crop-u2080.jpg" crc="4052391886" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun9-crop-u2084.jpg" crc="514640949" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="toyota_land_cruiser_prado_15034-crop-u2041.jpg" crc="244905645" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="starcraft.jpg" crc="4142491264" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="honda_crv_2008_022.jpg" crc="96846899" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun.jpg" crc="4092131644" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun7.jpg" crc="519838277" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun6.jpg" crc="487631079" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun-crop-u2104.jpg" crc="354971705" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun7-crop-u2106.jpg" crc="402118446" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun6-crop-u2102.jpg" crc="289976395" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun-crop-u2104.jpg" crc="3917389910" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun7-crop-u2106.jpg" crc="4058552455" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun6-crop-u2102.jpg" crc="4217906000" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko10.jpg" crc="3894292687" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="avramenko21.jpg" crc="449958240" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko3.jpg" crc="203456728" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko4.jpg" crc="403086280" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko5-crop-u1643.jpg" crc="43304795" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko5-crop-u1643.jpg" crc="153204845" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko7.jpg" crc="332850948" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko6.jpg" crc="4169544277" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko20.jpg" crc="496893227" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko8-crop-u1650.jpg" crc="171596954" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko8-crop-u1650.jpg" crc="4037084347" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko9.jpg" crc="117248295" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko10.jpg" crc="3958652178" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko11.jpg" crc="506065083" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko967x45.jpg" crc="3818655643" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko1067x45.jpg" crc="4018727287" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko1166x45.jpg" crc="4085102648" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko967x45.jpg" crc="171002359" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko1067x45.jpg" crc="210846600" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko1166x45.jpg" crc="318585200" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko12.jpg" crc="4218692692" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko13.jpg" crc="3820614094" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko14.jpg" crc="326602234" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko15.jpg" crc="4286406808" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko12-crop-u1669.jpg" crc="203273060" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko13-crop-u1663.jpg" crc="4128745688" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko14-crop-u1665.jpg" crc="357872899" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko15-crop-u1667.jpg" crc="3782754558" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko12-crop-u1669.jpg" crc="4007216191" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko13-crop-u1663.jpg" crc="137612423" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko14-crop-u1665.jpg" crc="3990569487" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko15-crop-u1667.jpg" crc="374890345" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko16.jpg" crc="171765363" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="sequoia.jpg" crc="160263467" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko17.jpg" crc="209794403" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko18.jpg" crc="349236331" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko19-crop-u1609.jpg" crc="515673166" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko19-crop-u1609.jpg" crc="468198651" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko_bud_.jpg" crc="3972121887" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko_bud21.jpg" crc="310950780" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko_bud31.jpg" crc="468751267" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko_bud41.jpg" crc="24571301" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko_bud51.jpg" crc="414928425" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko_bud_-crop-u1576.jpg" crc="3967417955" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko_bud21-crop-u1580.jpg" crc="125705563" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko_bud31-crop-u1572.jpg" crc="316796420" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko_bud41-crop-u1578.jpg" crc="3913723547" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="avramenko_bud51-crop-u1574.jpg" crc="3923624505" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko_bud_-crop-u1576.jpg" crc="135774340" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko_bud21-crop-u1580.jpg" crc="4222324466" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko_bud31-crop-u1572.jpg" crc="4221287112" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko_bud41-crop-u1578.jpg" crc="4294198912" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="avramenko_bud51-crop-u1574.jpg" crc="90137673" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="garnik15.jpg" crc="503849191" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik2.jpg" crc="459623940" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik3.jpg" crc="75198961" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
@@ -125,17 +130,17 @@
     <file name="garnik_kv (1).jpg" crc="514377943" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik_kv (2).jpg" crc="3979539793" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik_kv (3).jpg" crc="457817762" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik_kv (1)-crop-u1846.jpg" crc="446383326" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik_kv (2)-crop-u1848.jpg" crc="458558699" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik_kv (3)-crop-u1844.jpg" crc="481773158" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik_kv (1)-crop-u1846.jpg" crc="4111672675" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik_kv (2)-crop-u1848.jpg" crc="4205683697" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik_kv (3)-crop-u1844.jpg" crc="321766350" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik4.jpg" crc="251034194" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik5.jpg" crc="4046180659" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik6.jpg" crc="142533087" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik81.jpg" crc="3978215625" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik71.jpg" crc="160859928" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik6-crop-u1809.jpg" crc="3889548510" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik81-crop-u1805.jpg" crc="53965658" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="garnik71-crop-u1807.jpg" crc="4091143013" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik6-crop-u1809.jpg" crc="62648889" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik81-crop-u1805.jpg" crc="4055046856" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="garnik71-crop-u1807.jpg" crc="497574493" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik10.jpg" crc="4068341898" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="mercedes-benz-s-300.jpg" crc="467407551" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik13.jpg" crc="3915778361" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
@@ -147,45 +152,51 @@
     <file name="garnik24.jpg" crc="74221140" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="garnik23.jpg" crc="4262314794" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="audi-q5-4.jpg" crc="4021536704" seo="true" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="shevchenko.jpg" crc="3814690908" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko3.jpg" crc="3814222343" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko2.jpg" crc="3869095041" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko8.jpg" crc="326680086" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko9.jpg" crc="468081974" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko.jpg" crc="3814690908" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko3.jpg" crc="3814222343" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko17.jpg" crc="3999630013" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko7.jpg" crc="3963107771" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko5.jpg" crc="4221259991" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko41.jpg" crc="286860940" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko61.jpg" crc="3869816271" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko7-crop-u2837.jpg" crc="317485392" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko5-crop-u2852.jpg" crc="4178478531" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko41-crop-u2867.jpg" crc="4013379800" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko61-crop-u2882.jpg" crc="258718799" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko7-crop-u2837.jpg" crc="4245846304" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko5-crop-u2852.jpg" crc="4118321557" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko41-crop-u2867.jpg" crc="289445521" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko61-crop-u2882.jpg" crc="4045299179" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko121.jpg" crc="326821821" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko131.jpg" crc="4278393414" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko141.jpg" crc="3778055390" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko151.jpg" crc="70279793" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko162.jpg" crc="4072957918" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko121-crop-u3055.jpg" crc="4218894802" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko131-crop-u3051.jpg" crc="3878015772" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko141-crop-u3057.jpg" crc="310433337" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko151-crop-u3053.jpg" crc="4005873612" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko162-crop-u3133.jpg" crc="4007243579" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko17.jpg" crc="3999630013" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko121-crop-u3055.jpg" crc="204194171" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko131-crop-u3051.jpg" crc="3778525478" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko141-crop-u3057.jpg" crc="3882156047" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko151-crop-u3053.jpg" crc="4084423169" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko162-crop-u3133.jpg" crc="294353817" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="20141211_151936.jpg" crc="4047081052" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="10847223_881604695184213_2451111668196205714_o.jpg" crc="373039993" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="10750115_881604665184216_2711557940839793668_o.jpg" crc="3925972350" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="20141211_15193660x45.jpg" crc="4097364145" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="10847223_881604695184213_2451111668196205714_o68x45.jpg" crc="313413444" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="10750115_881604665184216_2711557940839793668_o68x45.jpg" crc="499672489" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="20141211_15193660x45.jpg" crc="93974789" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="10847223_881604695184213_2451111668196205714_o68x45.jpg" crc="311779188" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="10750115_881604665184216_2711557940839793668_o68x45.jpg" crc="395956211" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="shevchenko18.jpg" crc="47567816" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko20-crop-u3327.jpg" crc="96921713" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko1861x45.jpg" crc="3784699854" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="shevchenko20-crop-u3330.jpg" crc="46226060" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko20-crop-u3327.jpg" crc="444444266" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko1861x45.jpg" crc="382277479" seo="true" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="shevchenko20-crop-u3330.jpg" crc="4148863959" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="mamchur.jpg" crc="4107743471" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="mamchur2.jpg" crc="4022149443" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="mamchur3.jpg" crc="3824128038" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="mamchur5.jpg" crc="3913452488" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="mamchur6.jpg" crc="3884739090" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
   </folder>
-  <file name="index.html" crc="4143848927" seo="true" mt="1469650817607" redirect="true"/>
-  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4235185651" seo="true" mt="1469459172079" redirect="true"/>
-  <file name="prosud_video.html" crc="423025951" seo="true" mt="1469655775648" redirect="true"/>
-  <file name="prosud_avramenko_mikola_grigorovich.html" crc="339097041" seo="true" mt="1469459172079" redirect="true"/>
-  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="468039777" seo="true" mt="1469459172079" redirect="true"/>
-  <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="4088444048" seo="true" mt="1469656352993" redirect="true"/>
+  <file name="index.html" crc="53865878" seo="true" mt="1469650817607" redirect="true"/>
+  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3799889121" seo="true" mt="1469459172079" redirect="true"/>
+  <file name="prosud_video.html" crc="3832536077" seo="true" mt="1469655775648" redirect="true"/>
+  <file name="prosud_avramenko_mikola_grigorovich.html" crc="349346760" seo="true" mt="1469459172079" redirect="true"/>
+  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="316644579" seo="true" mt="1469459172079" redirect="true"/>
+  <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="3859312479" seo="true" mt="1470641115421" redirect="true"/>
+  <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="141943385" seo="true" mt="1470645949458" redirect="true"/>
 </manifest>
