@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2016-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://blog.prosud.info/prosud_shevchenko_oleksandr_vasilovich.html</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://blog.prosud.info/prosud_mamchur_yaroslav_stepanovich.html</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/prosud_shevchenko_oleksandr_vasilovich.html</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,19 +31,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://blog.prosud.info/prosud_video.html</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://blog.prosud.info/prosud_sokurenko_dmitro_mihaylovich.html</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/prosud_video.html</loc>
-    <lastmod>2016-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://blog.prosud.info/images/shokun9.jpg</loc>
+    <loc>http://blog.prosud.info/images/sokurenko71.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -103,13 +103,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/sokurenko41.jpg</loc>
+    <loc>http://blog.prosud.info/images/shokun8.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/sokurenko71.jpg</loc>
+    <loc>http://blog.prosud.info/images/shokun9.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -175,13 +175,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/shokun8.jpg</loc>
+    <loc>http://blog.prosud.info/images/avramenko4.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/avramenko4.jpg</loc>
+    <loc>http://blog.prosud.info/images/avramenko7.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -325,13 +325,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/avramenko7.jpg</loc>
+    <loc>http://blog.prosud.info/images/garnik3.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/sokurenko.jpg</loc>
+    <loc>http://blog.prosud.info/images/garnik11.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -355,13 +355,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/garnik_kv%20(3).jpg</loc>
+    <loc>http://blog.prosud.info/images/sokurenko.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/garnik4.jpg</loc>
+    <loc>http://blog.prosud.info/images/sokurenko41.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -625,6 +625,60 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://blog.prosud.info/images/mamchur9.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur11.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur12.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur10.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur7.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur8.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur760x45.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur860x45.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/mamchur4.jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://blog.prosud.info/images/garnik61.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -649,19 +703,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/garnik3.jpg</loc>
-    <lastmod>2016-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://blog.prosud.info/images/shevchenko7336x189.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/garnik11.jpg</loc>
+    <loc>http://blog.prosud.info/images/garnik_kv%20(3).jpg</loc>
+    <lastmod>2016-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/garnik4.jpg</loc>
     <lastmod>2016-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
