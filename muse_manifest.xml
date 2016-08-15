@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1471263800114">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1471295954379">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="112568116" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="master_______-a.css" crc="63329888" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="prosud_avramenko_mikola_grigorovich.css" crc="260833958" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="369898295" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="index.css" crc="4168564521" ref="index"/>
+    <file name="index.css" crc="3775890168" ref="index"/>
     <file name="prosud_garnik_lyudmila__leonidivna.css" crc="3835397941" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="395564063" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="4181519217" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -16,8 +16,8 @@
     <file name="prosud_video.css" crc="4220291237" ref="prosud_video"/>
     <file name="prosud_pavlyuk_irina_yuriyivna.css" crc="523677789" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="4165176192" ref="prosud_pavlyuk_irina_yuriyivna"/>
-    <file name="prosud_paholyuk_anatoliy_mihaylovich.css" crc="4185510597" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="iefonts_prosud_paholyuk_anatoliy_mihaylovich.css" crc="3832865546" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="prosud_paholyuk_anatoliy_mihaylovich.css" crc="4272167924" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="iefonts_prosud_paholyuk_anatoliy_mihaylovich.css" crc="200494738" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich"/>
@@ -236,21 +236,22 @@
     <file name="paholyuk131.jpg" crc="129923097" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk11.jpg" crc="489514589" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk7.jpg" crc="30704293" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk14.jpg" crc="4187735254" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk15.jpg" crc="530712827" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk14.jpg" crc="149525743" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk14-crop-u7100.jpg" crc="4057075655" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk15-crop-u7120.jpg" crc="4173137269" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk8.jpg" crc="67678530" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk9.jpg" crc="35651773" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk10.jpg" crc="4094025480" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk872x45.jpg" crc="32685971" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk973x45.jpg" crc="4081028079" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk1073x45.jpg" crc="190711413" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk8.jpg" crc="362571356" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk9.jpg" crc="119086968" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk10.jpg" crc="82324341" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk12.jpg" crc="287234744" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk16.jpg" crc="14405709" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="bmw-x5-08.jpg" crc="3765356126" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk14-crop-u7472.jpg" crc="188481738" ref="index"/>
+    <file name="paholyuk8-crop-u6833.jpg" crc="465151596" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk9-crop-u7398.jpg" crc="4225959321" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk10-crop-u7418.jpg" crc="182048364" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk17.jpg" crc="3995931415" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk17-crop-u7183.jpg" crc="471860590" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
   </folder>
-  <file name="index.html" crc="4149087067" seo="true" mt="1470980724073" redirect="true"/>
+  <file name="index.html" crc="4054073898" seo="true" mt="1471295856366" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3799889121" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_video.html" crc="4258376169" seo="true" mt="1470980110811" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="349346760" seo="true" mt="1469459172079" redirect="true"/>
@@ -258,5 +259,5 @@
   <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="3859312479" seo="true" mt="1470641115421" redirect="true"/>
   <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="4018001524" seo="true" mt="1471196271102" redirect="true"/>
   <file name="prosud_pavlyuk_irina_yuriyivna.html" crc="4189836628" seo="true" mt="1471196284919" redirect="true"/>
-  <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="353361203" seo="true" mt="1471263632281" redirect="true"/>
+  <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="3851436764" seo="true" mt="1471295000137" redirect="true"/>
 </manifest>
