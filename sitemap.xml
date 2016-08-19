@@ -529,6 +529,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://blog.prosud.info/images/shevchenko141.jpg</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://blog.prosud.info/images/sokurenko6.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -536,12 +542,6 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/images/sokurenko51.jpg</loc>
-    <lastmod>2016-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://blog.prosud.info/images/shevchenko162.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -985,25 +985,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/fazikosh13.jpg</loc>
-    <lastmod>2016-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://blog.prosud.info/images/fazikosh12.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/fazikosh1375x45.jpg</loc>
+    <loc>http://blog.prosud.info/images/fazikosh18.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/fazikosh18.jpg</loc>
+    <loc>http://blog.prosud.info/images/fazikosh21.jpg</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/fazikosh22.jpg</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/fazikosh2160x46.jpg</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/fazikosh2260x45.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1057,13 +1069,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/shevchenko141.jpg</loc>
+    <loc>http://blog.prosud.info/images/shevchenko151.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/shevchenko151.jpg</loc>
+    <loc>http://blog.prosud.info/images/shevchenko162.jpg</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
