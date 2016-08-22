@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1471592376610">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1471848335454">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="112568116" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="master_______-a.css" crc="112568116" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="prosud_avramenko_mikola_grigorovich.css" crc="260833958" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="369898295" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="index.css" crc="4232188735" ref="index"/>
+    <file name="index.css" crc="4044674091" ref="index"/>
     <file name="prosud_garnik_lyudmila__leonidivna.css" crc="3835397941" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="395564063" ref="prosud_garnik_lyudmila__leonidivna"/>
     <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="4181519217" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -13,31 +13,33 @@
     <file name="iefonts_prosud_mamchur_yaroslav_stepanovich.css" crc="238424548" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="4042061017" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="183358708" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="prosud_video.css" crc="413952066" ref="prosud_video"/>
+    <file name="prosud_video.css" crc="324895545" ref="prosud_video"/>
     <file name="prosud_pavlyuk_irina_yuriyivna.css" crc="523677789" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="4165176192" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="prosud_paholyuk_anatoliy_mihaylovich.css" crc="222781461" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="iefonts_prosud_paholyuk_anatoliy_mihaylovich.css" crc="200494738" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="prosud_fazikosh_ganna_vasilivna.css" crc="144721345" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="iefonts_prosud_fazikosh_ganna_vasilivna.css" crc="4170092867" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="prosud_pyatkovskiy_volodimir_ivanovich.css" crc="3868973256" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="iefonts_prosud_pyatkovskiy_volodimir_ivanovich.css" crc="529471698" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="museutils.js" crc="4155826306" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="whatinput.js" crc="86476730" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="museconfig.js" crc="328327953" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="museutils.js" crc="4155826306" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="whatinput.js" crc="86476730" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="museconfig.js" crc="328327953" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:prosud_mamchur_yaroslav_stepanovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="require.js" crc="228336483" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="webpro.js" crc="4078243563" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="touchswipe.js" crc="157639107" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="require.js" crc="228336483" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="webpro.js" crc="4078243563" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="touchswipe.js" crc="157639107" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="4163179147" ref="index:prosud_mamchur_yaroslav_stepanovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="u2293.png" crc="4089990308" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="u2293-r.png" crc="186900288" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="u2293.png" crc="4089990308" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="u2293-r.png" crc="186900288" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="fb_btn-u2484-fr.png" crc="47479120" ref="index:prosud_mamchur_yaroslav_stepanovich:prosud_fazikosh_ganna_vasilivna"/>
     <file name="fb_btn-u2484-r-fr.jpg" crc="229970286" ref="index:prosud_mamchur_yaroslav_stepanovich:prosud_fazikosh_ganna_vasilivna"/>
     <file name="twitter_btn-u2485-fr.png" crc="106801748" ref="index:prosud_mamchur_yaroslav_stepanovich:prosud_fazikosh_ganna_vasilivna"/>
@@ -54,7 +56,7 @@
     <file name="sokurenko3.jpg" crc="4193182101" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko.jpg" crc="4154550884" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko41.jpg" crc="245905984" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="blank.gif" crc="4208392903" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="blank.gif" crc="4208392903" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="sokurenko71.jpg" crc="17235016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko6.jpg" crc="44918504" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko51.jpg" crc="3817520187" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -64,7 +66,7 @@
     <file name="sokurenko6-crop-u2015.jpg" crc="3807324946" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko51-crop-u2023.jpg" crc="247418126" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko81-crop-u2017.jpg" crc="352965354" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="loading.gif" crc="3815509949" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="loading.gif" crc="3815509949" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="sokurenko9.jpg" crc="384134085" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko11.jpg" crc="4104141016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun2.jpg" crc="225913629" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -89,8 +91,8 @@
     <file name="shokun7-crop-u2106.jpg" crc="4058552455" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun6-crop-u2102.jpg" crc="4217906000" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko10.jpg" crc="3894292687" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
-    <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna"/>
+    <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="avramenko21.jpg" crc="449958240" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko3.jpg" crc="203456728" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko4.jpg" crc="403086280" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
@@ -252,7 +254,7 @@
     <file name="paholyuk10-crop-u7418.jpg" crc="182048364" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17.jpg" crc="3995931415" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17-crop-u7183.jpg" crc="471860590" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="fazikosh10-crop-u8111.jpg" crc="270215430" ref="index"/>
+    <file name="fazikosh10-crop-u8111.jpg" crc="4043680676" ref="index"/>
     <file name="fazikosh1.jpg" crc="4051323110" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2.jpg" crc="156254637" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh3.jpg" crc="136146883" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
@@ -280,10 +282,34 @@
     <file name="fazikosh22.jpg" crc="99129564" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2160x46.jpg" crc="4240131496" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2260x45.jpg" crc="4169626659" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="pyatkovskiy161-crop-u9072.jpg" crc="514256861" ref="index"/>
+    <file name="pyatkovskiy.jpg" crc="3840480573" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy2.jpg" crc="165860796" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy4.jpg" crc="4021199251" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy5.jpg" crc="4230625146" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy7.jpg" crc="306356616" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy6.jpg" crc="4019814370" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy18.jpg" crc="3804770214" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy8.jpg" crc="3938974405" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy15.jpg" crc="4278530332" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy16.jpg" crc="3847350952" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy17.jpg" crc="3847113446" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy15-crop-u8942.jpg" crc="12119887" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy16-crop-u8938.jpg" crc="4174536307" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy17-crop-u8940.jpg" crc="3987393091" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy12.jpg" crc="4175716765" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy13.jpg" crc="352673767" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy1275x45.jpg" crc="4159905988" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy1374x45.jpg" crc="4068951868" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy19.jpg" crc="69514663" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy11.jpg" crc="4144411138" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy14.jpg" crc="422646329" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy21.jpg" crc="3938920021" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="pyatkovskiy20.jpg" crc="4106721409" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
   </folder>
-  <file name="index.html" crc="407948267" seo="true" mt="1471554144605" redirect="true"/>
+  <file name="index.html" crc="3815251285" seo="true" mt="1471799304331" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3799889121" seo="true" mt="1469459172079" redirect="true"/>
-  <file name="prosud_video.html" crc="514434924" seo="true" mt="1471587558444" redirect="true"/>
+  <file name="prosud_video.html" crc="4238641268" seo="true" mt="1471847982577" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="349346760" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_garnik_lyudmila__leonidivna.html" crc="316644579" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="3859312479" seo="true" mt="1470641115421" redirect="true"/>
@@ -291,4 +317,5 @@
   <file name="prosud_pavlyuk_irina_yuriyivna.html" crc="4189836628" seo="true" mt="1471196284919" redirect="true"/>
   <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="397144710" seo="true" mt="1471338328974" redirect="true"/>
   <file name="prosud_fazikosh_ganna_vasilivna.html" crc="3782416848" seo="true" mt="1471592313692" redirect="true"/>
+  <file name="prosud_pyatkovskiy_volodimir_ivanovich.html" crc="266020703" seo="true" mt="1471848260453" redirect="true"/>
 </manifest>
