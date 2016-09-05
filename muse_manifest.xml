@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1473060846365">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1473061873240">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="468839964" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich"/>
@@ -22,7 +22,7 @@
     <file name="iefonts_prosud_fazikosh_ganna_vasilivna.css" crc="4170092867" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="prosud_pyatkovskiy_volodimir_ivanovich.css" crc="3868973256" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="iefonts_prosud_pyatkovskiy_volodimir_ivanovich.css" crc="529471698" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
-    <file name="pavlichenko_sergiy_viktorovich.css" crc="3795930980" ref="pavlichenko_sergiy_viktorovich"/>
+    <file name="pavlichenko_sergiy_viktorovich.css" crc="4130537162" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="iefonts_pavlichenko_sergiy_viktorovich.css" crc="117304177" ref="pavlichenko_sergiy_viktorovich"/>
   </folder>
   <folder name="scripts">
@@ -354,5 +354,5 @@
   <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="397144710" seo="true" mt="1471338328974" redirect="true"/>
   <file name="prosud_fazikosh_ganna_vasilivna.html" crc="3782416848" seo="true" mt="1471592313692" redirect="true"/>
   <file name="prosud_pyatkovskiy_volodimir_ivanovich.html" crc="266020703" seo="true" mt="1471848260453" redirect="true"/>
-  <file name="pavlichenko_sergiy_viktorovich.html" crc="4133818945" seo="true" mt="1473059515990" redirect="true"/>
+  <file name="pavlichenko_sergiy_viktorovich.html" crc="3887046545" seo="true" mt="1473061855828" redirect="true"/>
 </manifest>
