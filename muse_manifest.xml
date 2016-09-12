@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1473669937580">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1473672864336">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="3864891414" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna"/>
@@ -397,5 +397,5 @@
   <file name="prosud_pyatkovskiy_volodimir_ivanovich.html" crc="266020703" seo="true" mt="1471848260453" redirect="true"/>
   <file name="pavlichenko_sergiy_viktorovich.html" crc="165669570" seo="true" mt="1473315893882" redirect="true"/>
   <file name="kregul_mikola_mikolayovich.html" crc="4089889354" seo="true" mt="1473621123089" redirect="true"/>
-  <file name="karpyak_oksana_orestіvna.html" crc="3977250261" seo="true" mt="1473669616834" redirect="true"/>
+  <file name="karpyak_oksana_orestіvna.html" crc="4287832053" seo="true" mt="1473672833995" redirect="true"/>
 </manifest>
