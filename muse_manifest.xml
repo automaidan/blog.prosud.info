@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1474571944129">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1474572078045">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="4064297918" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich"/>
@@ -471,7 +471,7 @@
     <file name="ivanishchuk25.jpg" crc="108317869" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
     <file name="ivanishchuk26.jpg" crc="30125671" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
   </folder>
-  <file name="index.html" crc="455362874" seo="true" mt="1474571556216" redirect="true"/>
+  <file name="index.html" crc="4272704335" seo="true" mt="1474572046258" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3799889121" seo="true" mt="1469459172079" redirect="true"/>
   <file name="prosud_video.html" crc="502345059" seo="true" mt="1474361558847" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="349346760" seo="true" mt="1469459172079" redirect="true"/>
