@@ -1951,12 +1951,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/krikliviy1.jpg</loc>
-    <lastmod>2016-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://blog.prosud.info/images/krikliviy2.jpg</loc>
     <lastmod>2016-10-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2036,6 +2030,12 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/images/krikliviy11.jpg</loc>
+    <lastmod>2016-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/%D0%BA%D1%80%D0%B8%D0%BA%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9001.jpg</loc>
     <lastmod>2016-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
