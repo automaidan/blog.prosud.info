@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1476689479081">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1476689654329">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="3852323644" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich"/>
@@ -546,7 +546,7 @@
     <file name="bashmakov11.jpg" crc="3938317289" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
     <file name="bashmakov12.jpg" crc="400911158" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
   </folder>
-  <file name="index.html" crc="3917138014" seo="true" mt="1476689383391" redirect="true"/>
+  <file name="index.html" crc="110385921" seo="true" mt="1476689607485" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3947029849" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="257307245" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="87539832" seo="true" mt="1476381317195" redirect="true"/>
