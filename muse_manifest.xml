@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477050548013">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477051252437">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="94156330" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna"/>
@@ -596,5 +596,5 @@
   <file name="krikliviy_oleg_mikolayovich.html" crc="127761214" seo="true" mt="1476381317195" redirect="true"/>
   <file name="nezhura_vadim_anatoliyovich.html" crc="4243550768" seo="true" mt="1476381317195" redirect="true"/>
   <file name="bashmakov_ievgen_anatoliyovich.html" crc="517796185" seo="true" mt="1476978065211" redirect="true"/>
-  <file name="petrenko_nataliya_eduardivna.html" crc="233913223" seo="true" mt="1477049581784" redirect="true"/>
+  <file name="petrenko_nataliya_eduardivna.html" crc="233913223" seo="true" mt="1477051229753" redirect="true"/>
 </manifest>
