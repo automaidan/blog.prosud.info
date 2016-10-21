@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477043128438">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477043363830">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="94156330" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna"/>
@@ -69,8 +69,8 @@
     <file name="twitter_btn-u2485-r-fr.jpg" crc="266809122" ref="index"/>
     <file name="shevchenko7336x189.jpg" crc="448656692" seo="true" ref="index"/>
     <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
-    <file name="avramenko12-crop-u2324.jpg" crc="362168929" ref="index"/>
-    <file name="sokurenko6-crop-u2321.jpg" crc="244071909" ref="index"/>
+    <file name="avramenko12-crop-u2324.jpg" crc="4193762768" ref="index"/>
+    <file name="sokurenko6-crop-u2321.jpg" crc="3898937303" ref="index"/>
     <file name="u2312.png" crc="3953825259" ref="index"/>
     <file name="u2312-r.png" crc="4198272533" ref="index"/>
     <file name="sokurenko00-crop-u2123.jpg" crc="247913228" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -275,7 +275,7 @@
     <file name="paholyuk10-crop-u7418.jpg" crc="182048364" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17.jpg" crc="3995931415" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17-crop-u7183.jpg" crc="471860590" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="fazikosh10-crop-u8111.jpg" crc="4043680676" ref="index"/>
+    <file name="fazikosh10-crop-u8111.jpg" crc="270215430" ref="index"/>
     <file name="fazikosh1.jpg" crc="4051323110" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2.jpg" crc="156254637" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh3.jpg" crc="136146883" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
@@ -327,7 +327,7 @@
     <file name="pyatkovskiy14.jpg" crc="422646329" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy21.jpg" crc="3938920021" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy20.jpg" crc="4106721409" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
-    <file name="pavlichenko23-crop-u10197.jpg" crc="4007171242" ref="index"/>
+    <file name="pavlichenko23-crop-u10197.jpg" crc="530033022" ref="index"/>
     <file name="pavlichenko1.jpg" crc="4239719464" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko.jpg" crc="310353424" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko2.jpg" crc="4065024697" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
@@ -361,7 +361,7 @@
     <file name="pavlichenko23-crop-u10021.jpg" crc="4102479640" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko24-crop-u10017.jpg" crc="431408978" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko22-crop-u10019.jpg" crc="3873417967" ref="pavlichenko_sergiy_viktorovich"/>
-    <file name="kregul13-crop-u11184.jpg" crc="125200466" ref="index"/>
+    <file name="kregul13-crop-u11184.jpg" crc="375656010" ref="index"/>
     <file name="kregul.jpg" crc="4265120194" seo="true" ref="kregul_mikola_mikolayovich"/>
     <file name="kregul2.jpg" crc="3903137191" seo="true" ref="kregul_mikola_mikolayovich"/>
     <file name="kregul3.jpg" crc="3973051970" seo="true" ref="kregul_mikola_mikolayovich"/>
@@ -575,7 +575,7 @@
     <file name="petrenko19.jpg" crc="3888415602" seo="true" ref="petrenko_nataliya_eduardivna"/>
     <file name="petrenko20.jpg" crc="4265549186" seo="true" ref="petrenko_nataliya_eduardivna"/>
   </folder>
-  <file name="index.html" crc="135073508" seo="true" mt="1477034122383" redirect="true"/>
+  <file name="index.html" crc="53671412" seo="true" mt="1477043323427" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3947029849" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="3896007636" seo="true" mt="1477043097529" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="87539832" seo="true" mt="1476381317195" redirect="true"/>
