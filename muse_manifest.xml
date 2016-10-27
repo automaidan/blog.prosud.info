@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477549736317">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1477552323443">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="94156330" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1"/>
@@ -634,7 +634,7 @@
     <file name="ksu1-37.jpg" crc="4098343129" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-38.jpg" crc="116046951" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
   </folder>
-  <file name="index.html" crc="4217510" seo="true" mt="1477549343072" redirect="true"/>
+  <file name="index.html" crc="3815926202" seo="true" mt="1477552296068" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3947029849" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="332294623" seo="true" mt="1477380016425" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="87539832" seo="true" mt="1476381317195" redirect="true"/>
@@ -657,5 +657,5 @@
   <file name="bashmakov_ievgen_anatoliyovich.html" crc="517796185" seo="true" mt="1476978065211" redirect="true"/>
   <file name="petrenko_nataliya_eduardivna.html" crc="110214938" seo="true" mt="1477321426532" redirect="true"/>
   <file name="denisyuk_petro_dmitrovich.html" crc="3999744435" seo="true" mt="1477499911674" redirect="true"/>
-  <file name="konstitucіjnij_sud_ukraini_chastina_1.html" crc="3966722280" seo="true" mt="1477549538180" redirect="true"/>
+  <file name="konstitucіjnij_sud_ukraini_chastina_1.html" crc="4196646934" seo="true" mt="1477552282869" redirect="true"/>
 </manifest>
