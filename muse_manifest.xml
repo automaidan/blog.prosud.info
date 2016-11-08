@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1478558326269">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1478598542737">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="3852323644" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna"/>
+    <file name="master_______-a.css" crc="3907482386" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna"/>
     <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="295130043" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="3868193850" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="krikliviy_oleg_mikolayovich.css" crc="4045606872" ref="krikliviy_oleg_mikolayovich"/>
@@ -35,7 +35,7 @@
     <file name="index.css" crc="3772581647" ref="index"/>
     <file name="karpyak_oksana_orest_vna.css" crc="4269124160" ref="karpyak_oksana_orestіvna"/>
     <file name="iefonts_karpyak_oksana_orest_vna.css" crc="3953904781" ref="karpyak_oksana_orestіvna"/>
-    <file name="konstituc_jnij_sud_ukraini_chastina_3.css" crc="3961632661" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
+    <file name="konstituc_jnij_sud_ukraini_chastina_3.css" crc="426404138" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_3.css" crc="4205432848" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="shilova_tetyana_semenivna.css" crc="4088315994" ref="shilova_tetyana_semenivna"/>
     <file name="iefonts_shilova_tetyana_semenivna.css" crc="365951820" ref="shilova_tetyana_semenivna"/>
@@ -680,7 +680,7 @@
     <file name="ksu3_21.jpg" crc="339895119" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_22.jpg" crc="4293136864" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_23.jpg" crc="3855125765" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
-    <file name="ksu3_24.jpg" crc="330759011" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
+    <file name="ksu3_24.jpg" crc="8716437" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_25.jpg" crc="302118886" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_26.jpg" crc="204345509" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_27.jpg" crc="4239747798" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
@@ -723,5 +723,5 @@
   <file name="denisyuk_petro_dmitrovich.html" crc="512754245" seo="true" mt="1478076587099" redirect="true"/>
   <file name="konstitucіjnij_sud_ukraini_chastina_1.html" crc="230292716" seo="true" mt="1478016409766" redirect="true"/>
   <file name="konstitucіjnij_sud_ukraini_chastina_2.html" crc="4045163271" seo="true" mt="1478527833190" redirect="true"/>
-  <file name="konstitucіjnij_sud_ukraini_chastina_3.html" crc="188761103" seo="true" mt="1478557738982" redirect="true"/>
+  <file name="konstitucіjnij_sud_ukraini_chastina_3.html" crc="3805855138" seo="true" mt="1478598506424" redirect="true"/>
 </manifest>
