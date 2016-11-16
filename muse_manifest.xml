@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1479247291346">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1479259584198">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="3907482386" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna"/>
@@ -54,7 +54,7 @@
     <file name="iefonts_saltan_lyudmila_volodimirivna.css" crc="4248850664" ref="saltan_lyudmila_volodimirivna"/>
     <file name="galonkin_sergiy_anatoliyovich.css" crc="34412451" ref="galonkin_sergiy_anatoliyovich"/>
     <file name="iefonts_galonkin_sergiy_anatoliyovich.css" crc="3977749031" ref="galonkin_sergiy_anatoliyovich"/>
-    <file name="popovich_irina_mikolayivna.css" crc="4286412421" ref="popovich_irina_mikolayivna"/>
+    <file name="popovich_irina_mikolayivna.css" crc="287288346" ref="popovich_irina_mikolayivna"/>
     <file name="iefonts_popovich_irina_mikolayivna.css" crc="3994257759" ref="popovich_irina_mikolayivna"/>
   </folder>
   <folder name="scripts">
@@ -757,7 +757,7 @@
     <file name="popovich18.jpg" crc="3966814635" seo="true" ref="popovich_irina_mikolayivna"/>
     <file name="popovich19.jpg" crc="167628509" seo="true" ref="popovich_irina_mikolayivna"/>
   </folder>
-  <file name="index.html" crc="3826932914" seo="true" mt="1479246585373" redirect="true"/>
+  <file name="index.html" crc="4181674181" seo="true" mt="1479259529444" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4149338387" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="3760483589" seo="true" mt="1477380016425" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="142064953" seo="true" mt="1476381317195" redirect="true"/>
@@ -784,5 +784,5 @@
   <file name="konstitucіjnij_sud_ukraini_chastina_2.html" crc="4045163271" seo="true" mt="1478527833190" redirect="true"/>
   <file name="konstitucіjnij_sud_ukraini_chastina_3.html" crc="3805855138" seo="true" mt="1478598506424" redirect="true"/>
   <file name="galonkin_sergiy_anatoliyovich.html" crc="4012021349" seo="true" mt="1479133364009" redirect="true"/>
-  <file name="popovich_irina_mikolayivna.html" crc="431453072" seo="true" mt="1479247114421" redirect="true"/>
+  <file name="popovich_irina_mikolayivna.html" crc="4197528058" seo="true" mt="1479259439378" redirect="true"/>
 </manifest>
