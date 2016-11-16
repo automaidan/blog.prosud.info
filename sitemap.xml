@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/popovich_irina_mikolayivna.html</loc>
-    <lastmod>2016-11-16</lastmod>
+    <loc>http://blog.prosud.info/galonkin_sergiy_anatoliyovich.html</loc>
+    <lastmod>2016-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/galonkin_sergiy_anatoliyovich.html</loc>
-    <lastmod>2016-11-14</lastmod>
+    <loc>http://blog.prosud.info/popovich_irina_mikolayivna.html</loc>
+    <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1681,12 +1681,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/volosko17.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://blog.prosud.info/images/sokurenko81.jpg</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1694,6 +1688,12 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/images/shokun2.jpg</loc>
+    <lastmod>2016-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/images/volosko19.jpg</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3079,12 +3079,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://blog.prosud.info/images/popovich1.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://blog.prosud.info/images/popovich2.jpg</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -3367,6 +3361,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://blog.prosud.info/images/volosko17.jpg</loc>
+    <lastmod>2016-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://blog.prosud.info/images/ksu1-111.jpg</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -3374,12 +3374,6 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/images/volosko18.jpg</loc>
-    <lastmod>2016-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://blog.prosud.info/images/volosko19.jpg</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
