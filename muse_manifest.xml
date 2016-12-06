@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481023695340">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481040003877">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="3852323644" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich"/>
+    <file name="master_______-a.css" crc="94156330" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich"/>
     <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="295130043" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="3868193850" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="krikliviy_oleg_mikolayovich.css" crc="4045606872" ref="krikliviy_oleg_mikolayovich"/>
@@ -62,7 +62,7 @@
     <file name="iefonts_pervushina_olena_sergiyivna.css" crc="525501092" ref="pervushina_olena_sergiyivna"/>
     <file name="tarasyuk_kristina_eduardivna.css" crc="3953309250" ref="tarasyuk_kristina_eduardivna"/>
     <file name="iefonts_tarasyuk_kristina_eduardivna.css" crc="173335464" ref="tarasyuk_kristina_eduardivna"/>
-    <file name="zhurba_sergiy_oleksandrovich.css" crc="420873470" ref="zhurba_sergiy_oleksandrovich"/>
+    <file name="zhurba_sergiy_oleksandrovich.css" crc="217807827" ref="zhurba_sergiy_oleksandrovich"/>
     <file name="iefonts_zhurba_sergiy_oleksandrovich.css" crc="53483177" ref="zhurba_sergiy_oleksandrovich"/>
   </folder>
   <folder name="scripts">
@@ -864,5 +864,5 @@
   <file name="kiyashko_oleksandr_anatoliyovich.html" crc="466749621" seo="true" mt="1479940949268" redirect="true"/>
   <file name="pervushina_olena_sergiyivna.html" crc="285497680" seo="true" mt="1480930861829" redirect="true"/>
   <file name="tarasyuk_kristina_eduardivna.html" crc="54945877" seo="true" mt="1481005285270" redirect="true"/>
-  <file name="zhurba_sergiy_oleksandrovich.html" crc="3933605733" seo="true" mt="1481023643170" redirect="true"/>
+  <file name="zhurba_sergiy_oleksandrovich.html" crc="4137325566" seo="true" mt="1481039334674" redirect="true"/>
 </manifest>
