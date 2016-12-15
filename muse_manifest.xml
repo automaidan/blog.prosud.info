@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481801801190">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481802330585">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
     <file name="master_______-a.css" crc="3852323644" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich"/>
@@ -32,7 +32,7 @@
     <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="351435524" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="kregul_mikola_mikolayovich.css" crc="258469942" ref="kregul_mikola_mikolayovich"/>
     <file name="iefonts_kregul_mikola_mikolayovich.css" crc="274928712" ref="kregul_mikola_mikolayovich"/>
-    <file name="index.css" crc="3875479626" ref="index"/>
+    <file name="index.css" crc="186208039" ref="index"/>
     <file name="karpyak_oksana_orest_vna.css" crc="4269124160" ref="karpyak_oksana_orestіvna"/>
     <file name="iefonts_karpyak_oksana_orest_vna.css" crc="3953904781" ref="karpyak_oksana_orestіvna"/>
     <file name="konstituc_jnij_sud_ukraini_chastina_3.css" crc="426404138" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
@@ -848,8 +848,9 @@
     <file name="rotmistrenko11.jpg" crc="500039111" seo="true" ref="rotmistrenko_mihaylo_volodimirovich"/>
     <file name="rotmistrenko12.jpg" crc="3904019543" seo="true" ref="rotmistrenko_mihaylo_volodimirovich"/>
     <file name="rotmistrenko13.jpg" crc="379477740" seo="true" ref="rotmistrenko_mihaylo_volodimirovich"/>
+    <file name="обложка-crop-u23789.jpg" crc="3777082657" ref="index"/>
   </folder>
-  <file name="index.html" crc="298045221" seo="true" mt="1481801758009" redirect="true"/>
+  <file name="index.html" crc="3785170661" seo="true" mt="1481802242401" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4149338387" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="3760483589" seo="true" mt="1477380016425" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="142064953" seo="true" mt="1476381317195" redirect="true"/>
