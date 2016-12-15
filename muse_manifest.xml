@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481701244968">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1481801801190">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="3907482386" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich"/>
+    <file name="master_______-a.css" crc="3852323644" ref="prosud_shevchenko_oleksandr_vasilovich:krikliviy_oleg_mikolayovich:prosud_mamchur_yaroslav_stepanovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:petrenko_nataliya_eduardivna:prosud_fazikosh_ganna_vasilivna:denisyuk_petro_dmitrovich:prosud_pyatkovskiy_volodimir_ivanovich:konstitucіjnij_sud_ukraini_chastina_1:pavlichenko_sergiy_viktorovich:konstitucіjnij_sud_ukraini_chastina_2:prosud_pavlyuk_irina_yuriyivna:kregul_mikola_mikolayovich:index:karpyak_oksana_orestіvna:konstitucіjnij_sud_ukraini_chastina_3:shilova_tetyana_semenivna:prosud_video:volosko_irina_romanivna:prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:ivanishchuk_andriy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:saltan_lyudmila_volodimirivna:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich"/>
     <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="295130043" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="3868193850" ref="prosud_shevchenko_oleksandr_vasilovich"/>
     <file name="krikliviy_oleg_mikolayovich.css" crc="4045606872" ref="krikliviy_oleg_mikolayovich"/>
@@ -32,7 +32,7 @@
     <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="351435524" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="kregul_mikola_mikolayovich.css" crc="258469942" ref="kregul_mikola_mikolayovich"/>
     <file name="iefonts_kregul_mikola_mikolayovich.css" crc="274928712" ref="kregul_mikola_mikolayovich"/>
-    <file name="index.css" crc="528559537" ref="index"/>
+    <file name="index.css" crc="3875479626" ref="index"/>
     <file name="karpyak_oksana_orest_vna.css" crc="4269124160" ref="karpyak_oksana_orestіvna"/>
     <file name="iefonts_karpyak_oksana_orest_vna.css" crc="3953904781" ref="karpyak_oksana_orestіvna"/>
     <file name="konstituc_jnij_sud_ukraini_chastina_3.css" crc="426404138" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
@@ -100,17 +100,17 @@
     <file name="волоско_дом1-crop-u13689.jpg" crc="276828354" ref="index"/>
     <file name="dji_0148-crop-u12986.jpg" crc="350148682" ref="index"/>
     <file name="karpyak7-crop-u12645.jpg" crc="4102969154" ref="index"/>
-    <file name="kregul13-crop-u11184.jpg" crc="125200466" ref="index"/>
-    <file name="pavlichenko23-crop-u10197.jpg" crc="4007171242" ref="index"/>
+    <file name="kregul13-crop-u11184.jpg" crc="375656010" ref="index"/>
+    <file name="pavlichenko23-crop-u10197.jpg" crc="530033022" ref="index"/>
     <file name="pyatkovskiy161-crop-u9072.jpg" crc="514256861" ref="index"/>
-    <file name="fazikosh10-crop-u8111.jpg" crc="4043680676" ref="index"/>
+    <file name="fazikosh10-crop-u8111.jpg" crc="270215430" ref="index"/>
     <file name="paholyuk14-crop-u7472.jpg" crc="188481738" ref="index"/>
     <file name="pavlyuk122-crop-u6270.jpg" crc="3937027823" ref="index"/>
     <file name="mamchur7-crop-u4979.jpg" crc="3873123621" ref="index"/>
     <file name="shevchenko7336x189.jpg" crc="448656692" seo="true" ref="index"/>
     <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
-    <file name="avramenko12-crop-u2324.jpg" crc="362168929" ref="index"/>
-    <file name="sokurenko6-crop-u2321.jpg" crc="244071909" ref="index"/>
+    <file name="avramenko12-crop-u2324.jpg" crc="4193762768" ref="index"/>
+    <file name="sokurenko6-crop-u2321.jpg" crc="3898937303" ref="index"/>
     <file name="u2312.png" crc="3953825259" ref="index"/>
     <file name="u2312-r.png" crc="4198272533" ref="index"/>
     <file name="sokurenko00-crop-u2123.jpg" crc="247913228" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -849,7 +849,7 @@
     <file name="rotmistrenko12.jpg" crc="3904019543" seo="true" ref="rotmistrenko_mihaylo_volodimirovich"/>
     <file name="rotmistrenko13.jpg" crc="379477740" seo="true" ref="rotmistrenko_mihaylo_volodimirovich"/>
   </folder>
-  <file name="index.html" crc="270989893" seo="true" mt="1481659167756" redirect="true"/>
+  <file name="index.html" crc="298045221" seo="true" mt="1481801758009" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="4149338387" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="3760483589" seo="true" mt="1477380016425" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="142064953" seo="true" mt="1476381317195" redirect="true"/>
