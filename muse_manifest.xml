@@ -1,119 +1,119 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1494405543363">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1494406153247">
   <folder name="css">
     <file name="site_global.css" crc="528814141"/>
-    <file name="master_______-a.css" crc="3852323644" ref="prosud_avramenko_mikola_grigorovich:index:prosud_garnik_lyudmila__leonidivna:prosud_sokurenko_dmitro_mihaylovich:prosud_mamchur_yaroslav_stepanovich:prosud_shevchenko_oleksandr_vasilovich:prosud_video:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:drobotova_tetyana_borisivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:antonenko_nataliya_oleksandrivna:babenko_kostyantin_anatoliyovich:danilova_malvina_volodimirivna:stratiienko_lyudmila_vasilivna:mogil_sergiy_kostyantinovich:a_suddі_nasіrova_hto:tishchenko_oksana_volodimirivna:kravchuk_gennadiy_anatoliyovich:karaban_volodimir_yakovich:iemec_anatoliy_anatoliyovich:basay_oleg_viktorovich:buckiy_vasil_valeriyovich:poprevich_viktor_mihaylovich:bondar_sergiy_volodimirovich:popovich_irina_mikolayivna:stupak_olga_v_yacheslavivna:galonkin_sergiy_anatoliyovich:kiyashko_oleksandr_anatoliyovich:marinchak_ninel_ievgenivna:oksyuta_taras_grigorovich:sirosh_mikola_vasilovich:snegirov_vitaliy_andriyovich:tarasyuk_kristina_eduardivna:korotkevich_mikola_ievgenovich:pervushina_olena_sergiyivna:lagnyuk_mikola_mihaylovich:arsiriy_ruslan_oleksandrovich:epel_oksana_volodimirivna:konstitucіjnij_sud_ukraini_chastina_3"/>
-    <file name="prosud_avramenko_mikola_grigorovich.css" crc="4089393888" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="356751090" ref="prosud_avramenko_mikola_grigorovich"/>
-    <file name="index.css" crc="52281278" ref="index"/>
-    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="4000166504" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="4091903466" ref="prosud_garnik_lyudmila__leonidivna"/>
-    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="441367680" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="3884897190" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud_mamchur_yaroslav_stepanovich.css" crc="221462501" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="iefonts_prosud_mamchur_yaroslav_stepanovich.css" crc="394144032" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="232125256" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="3868193850" ref="prosud_shevchenko_oleksandr_vasilovich"/>
-    <file name="prosud_video.css" crc="3828573933" ref="prosud_video"/>
-    <file name="prosud_pavlyuk_irina_yuriyivna.css" crc="4282856598" ref="prosud_pavlyuk_irina_yuriyivna"/>
-    <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="351435524" ref="prosud_pavlyuk_irina_yuriyivna"/>
-    <file name="prosud_paholyuk_anatoliy_mihaylovich.css" crc="4248490864" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="iefonts_prosud_paholyuk_anatoliy_mihaylovich.css" crc="4089437131" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="prosud_fazikosh_ganna_vasilivna.css" crc="491398476" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="iefonts_prosud_fazikosh_ganna_vasilivna.css" crc="4242889940" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="prosud_pyatkovskiy_volodimir_ivanovich.css" crc="417763415" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
-    <file name="iefonts_prosud_pyatkovskiy_volodimir_ivanovich.css" crc="4057552758" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
-    <file name="pavlichenko_sergiy_viktorovich.css" crc="4100679016" ref="pavlichenko_sergiy_viktorovich"/>
-    <file name="iefonts_pavlichenko_sergiy_viktorovich.css" crc="95571636" ref="pavlichenko_sergiy_viktorovich"/>
-    <file name="kregul_mikola_mikolayovich.css" crc="4191290581" ref="kregul_mikola_mikolayovich"/>
-    <file name="iefonts_kregul_mikola_mikolayovich.css" crc="274928712" ref="kregul_mikola_mikolayovich"/>
-    <file name="karpyak_oksana_orest_vna.css" crc="178951108" ref="karpyak_oksana_orestіvna"/>
-    <file name="iefonts_karpyak_oksana_orest_vna.css" crc="3953904781" ref="karpyak_oksana_orestіvna"/>
-    <file name="shilova_tetyana_semenivna.css" crc="4160915362" ref="shilova_tetyana_semenivna"/>
-    <file name="iefonts_shilova_tetyana_semenivna.css" crc="365951820" ref="shilova_tetyana_semenivna"/>
-    <file name="volosko_irina_romanivna.css" crc="4042517899" ref="volosko_irina_romanivna"/>
-    <file name="iefonts_volosko_irina_romanivna.css" crc="4219375646" ref="volosko_irina_romanivna"/>
-    <file name="ivanishchuk_andriy_anatoliyovich.css" crc="4223900992" ref="ivanishchuk_andriy_anatoliyovich"/>
-    <file name="iefonts_ivanishchuk_andriy_anatoliyovich.css" crc="3801043352" ref="ivanishchuk_andriy_anatoliyovich"/>
-    <file name="saltan_lyudmila_volodimirivna.css" crc="4152214393" ref="saltan_lyudmila_volodimirivna"/>
-    <file name="iefonts_saltan_lyudmila_volodimirivna.css" crc="4248850664" ref="saltan_lyudmila_volodimirivna"/>
-    <file name="krikliviy_oleg_mikolayovich.css" crc="3758287136" ref="krikliviy_oleg_mikolayovich"/>
-    <file name="iefonts_krikliviy_oleg_mikolayovich.css" crc="3805421540" ref="krikliviy_oleg_mikolayovich"/>
-    <file name="nezhura_vadim_anatoliyovich.css" crc="192039105" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="iefonts_nezhura_vadim_anatoliyovich.css" crc="4138662221" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="bashmakov_ievgen_anatoliyovich.css" crc="359084083" ref="bashmakov_ievgen_anatoliyovich"/>
-    <file name="iefonts_bashmakov_ievgen_anatoliyovich.css" crc="188995063" ref="bashmakov_ievgen_anatoliyovich"/>
+    <file name="master_______-a.css" crc="3852323644" ref="petrenko_nataliya_eduardivna:antonenko_nataliya_oleksandrivna:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:krikliviy_oleg_mikolayovich:konstitucіjnij_sud_ukraini_chastina_2:karaban_volodimir_yakovich:poprevich_viktor_mihaylovich:bondar_sergiy_volodimirovich:pavlichenko_sergiy_viktorovich:prosud_sokurenko_dmitro_mihaylovich:nezhura_vadim_anatoliyovich:galonkin_sergiy_anatoliyovich:marinchak_ninel_ievgenivna:kregul_mikola_mikolayovich:zhurba_sergiy_oleksandrovich:stupak_olga_v_yacheslavivna:shilova_tetyana_semenivna:prosud_pavlyuk_irina_yuriyivna:denisyuk_petro_dmitrovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:lagnyuk_mikola_mihaylovich:prosud_mamchur_yaroslav_stepanovich:epel_oksana_volodimirivna:konstitucіjnij_sud_ukraini_chastina_3:drobotova_tetyana_borisivna:iemec_anatoliy_anatoliyovich:rotmistrenko_mihaylo_volodimirovich:saltan_lyudmila_volodimirivna:mogil_sergiy_kostyantinovich:prosud_shevchenko_oleksandr_vasilovich:danilova_malvina_volodimirivna:prosud_avramenko_mikola_grigorovich:arsiriy_ruslan_oleksandrovich:kravchuk_gennadiy_anatoliyovich:prosud_video:tishchenko_oksana_volodimirivna:prosud_garnik_lyudmila__leonidivna:konstitucіjnij_sud_ukraini_chastina_1:a_suddі_nasіrova_hto:ivanishchuk_andriy_anatoliyovich:basay_oleg_viktorovich:prosud_fazikosh_ganna_vasilivna:popovich_irina_mikolayivna:volosko_irina_romanivna:tarasyuk_kristina_eduardivna:karpyak_oksana_orestіvna:oksyuta_taras_grigorovich:pervushina_olena_sergiyivna:index:snegirov_vitaliy_andriyovich:bashmakov_ievgen_anatoliyovich:prosud_paholyuk_anatoliy_mihaylovich:prosud_pyatkovskiy_volodimir_ivanovich:stratiienko_lyudmila_vasilivna:kiyashko_oleksandr_anatoliyovich"/>
     <file name="petrenko_nataliya_eduardivna.css" crc="378389488" ref="petrenko_nataliya_eduardivna"/>
     <file name="iefonts_petrenko_nataliya_eduardivna.css" crc="4263513977" ref="petrenko_nataliya_eduardivna"/>
-    <file name="denisyuk_petro_dmitrovich.css" crc="375501270" ref="denisyuk_petro_dmitrovich"/>
-    <file name="iefonts_denisyuk_petro_dmitrovich.css" crc="163612887" ref="denisyuk_petro_dmitrovich"/>
-    <file name="konstituc_jnij_sud_ukraini_chastina_1.css" crc="239242245" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
-    <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_1.css" crc="3924586049" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
-    <file name="konstituc_jnij_sud_ukraini_chastina_2.css" crc="3966229453" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
-    <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_2.css" crc="326443802" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
-    <file name="drobotova_tetyana_borisivna.css" crc="3937414170" ref="drobotova_tetyana_borisivna"/>
-    <file name="iefonts_drobotova_tetyana_borisivna.css" crc="140275936" ref="drobotova_tetyana_borisivna"/>
-    <file name="zhurba_sergiy_oleksandrovich.css" crc="420873470" ref="zhurba_sergiy_oleksandrovich"/>
-    <file name="iefonts_zhurba_sergiy_oleksandrovich.css" crc="53483177" ref="zhurba_sergiy_oleksandrovich"/>
-    <file name="rotmistrenko_mihaylo_volodimirovich.css" crc="282752480" ref="rotmistrenko_mihaylo_volodimirovich"/>
-    <file name="iefonts_rotmistrenko_mihaylo_volodimirovich.css" crc="4113129114" ref="rotmistrenko_mihaylo_volodimirovich"/>
     <file name="antonenko_nataliya_oleksandrivna.css" crc="246369742" ref="antonenko_nataliya_oleksandrivna"/>
     <file name="iefonts_antonenko_nataliya_oleksandrivna.css" crc="207512831" ref="antonenko_nataliya_oleksandrivna"/>
     <file name="babenko_kostyantin_anatoliyovich.css" crc="93723553" ref="babenko_kostyantin_anatoliyovich"/>
     <file name="iefonts_babenko_kostyantin_anatoliyovich.css" crc="3774723071" ref="babenko_kostyantin_anatoliyovich"/>
-    <file name="danilova_malvina_volodimirivna.css" crc="326197782" ref="danilova_malvina_volodimirivna"/>
-    <file name="iefonts_danilova_malvina_volodimirivna.css" crc="376558704" ref="danilova_malvina_volodimirivna"/>
-    <file name="stratiienko_lyudmila_vasilivna.css" crc="461458965" ref="stratiienko_lyudmila_vasilivna"/>
-    <file name="iefonts_stratiienko_lyudmila_vasilivna.css" crc="4211369348" ref="stratiienko_lyudmila_vasilivna"/>
-    <file name="mogil_sergiy_kostyantinovich.css" crc="4200482493" ref="mogil_sergiy_kostyantinovich"/>
-    <file name="iefonts_mogil_sergiy_kostyantinovich.css" crc="108686060" ref="mogil_sergiy_kostyantinovich"/>
-    <file name="a_sudd__nas_rova_hto.css" crc="332236026" ref="a_suddі_nasіrova_hto"/>
-    <file name="iefonts_a_sudd__nas_rova_hto.css" crc="4259578712" ref="a_suddі_nasіrova_hto"/>
-    <file name="tishchenko_oksana_volodimirivna.css" crc="3802449627" ref="tishchenko_oksana_volodimirivna"/>
-    <file name="iefonts_tishchenko_oksana_volodimirivna.css" crc="281871145" ref="tishchenko_oksana_volodimirivna"/>
-    <file name="kravchuk_gennadiy_anatoliyovich.css" crc="284554408" ref="kravchuk_gennadiy_anatoliyovich"/>
-    <file name="iefonts_kravchuk_gennadiy_anatoliyovich.css" crc="4259579330" ref="kravchuk_gennadiy_anatoliyovich"/>
-    <file name="karaban_volodimir_yakovich.css" crc="3937245557" ref="karaban_volodimir_yakovich"/>
-    <file name="iefonts_karaban_volodimir_yakovich.css" crc="4068317515" ref="karaban_volodimir_yakovich"/>
-    <file name="iemec_anatoliy_anatoliyovich.css" crc="118210612" ref="iemec_anatoliy_anatoliyovich"/>
-    <file name="iefonts_iemec_anatoliy_anatoliyovich.css" crc="3790273163" ref="iemec_anatoliy_anatoliyovich"/>
-    <file name="basay_oleg_viktorovich.css" crc="3879048130" ref="basay_oleg_viktorovich"/>
-    <file name="iefonts_basay_oleg_viktorovich.css" crc="3796103421" ref="basay_oleg_viktorovich"/>
     <file name="buckiy_vasil_valeriyovich.css" crc="179979528" ref="buckiy_vasil_valeriyovich"/>
     <file name="iefonts_buckiy_vasil_valeriyovich.css" crc="415579168" ref="buckiy_vasil_valeriyovich"/>
+    <file name="krikliviy_oleg_mikolayovich.css" crc="3824332317" ref="krikliviy_oleg_mikolayovich"/>
+    <file name="iefonts_krikliviy_oleg_mikolayovich.css" crc="3805421540" ref="krikliviy_oleg_mikolayovich"/>
+    <file name="konstituc_jnij_sud_ukraini_chastina_2.css" crc="3966229453" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
+    <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_2.css" crc="326443802" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
+    <file name="karaban_volodimir_yakovich.css" crc="3937245557" ref="karaban_volodimir_yakovich"/>
+    <file name="iefonts_karaban_volodimir_yakovich.css" crc="4068317515" ref="karaban_volodimir_yakovich"/>
     <file name="poprevich_viktor_mihaylovich.css" crc="220966117" ref="poprevich_viktor_mihaylovich"/>
     <file name="iefonts_poprevich_viktor_mihaylovich.css" crc="3898548679" ref="poprevich_viktor_mihaylovich"/>
     <file name="bondar_sergiy_volodimirovich.css" crc="4052397555" ref="bondar_sergiy_volodimirovich"/>
     <file name="iefonts_bondar_sergiy_volodimirovich.css" crc="241914246" ref="bondar_sergiy_volodimirovich"/>
-    <file name="popovich_irina_mikolayivna.css" crc="3775295162" ref="popovich_irina_mikolayivna"/>
-    <file name="iefonts_popovich_irina_mikolayivna.css" crc="4049990284" ref="popovich_irina_mikolayivna"/>
-    <file name="stupak_olga_v_yacheslavivna.css" crc="43048758" ref="stupak_olga_v_yacheslavivna"/>
-    <file name="iefonts_stupak_olga_v_yacheslavivna.css" crc="263316613" ref="stupak_olga_v_yacheslavivna"/>
+    <file name="pavlichenko_sergiy_viktorovich.css" crc="3855832643" ref="pavlichenko_sergiy_viktorovich"/>
+    <file name="iefonts_pavlichenko_sergiy_viktorovich.css" crc="95571636" ref="pavlichenko_sergiy_viktorovich"/>
+    <file name="prosud_sokurenko_dmitro_mihaylovich.css" crc="123713407" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="iefonts_prosud_sokurenko_dmitro_mihaylovich.css" crc="3884897190" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="nezhura_vadim_anatoliyovich.css" crc="4231602808" ref="nezhura_vadim_anatoliyovich"/>
+    <file name="iefonts_nezhura_vadim_anatoliyovich.css" crc="4138662221" ref="nezhura_vadim_anatoliyovich"/>
     <file name="galonkin_sergiy_anatoliyovich.css" crc="137796322" ref="galonkin_sergiy_anatoliyovich"/>
     <file name="iefonts_galonkin_sergiy_anatoliyovich.css" crc="3977749031" ref="galonkin_sergiy_anatoliyovich"/>
-    <file name="kiyashko_oleksandr_anatoliyovich.css" crc="171677633" ref="kiyashko_oleksandr_anatoliyovich"/>
-    <file name="iefonts_kiyashko_oleksandr_anatoliyovich.css" crc="121550047" ref="kiyashko_oleksandr_anatoliyovich"/>
     <file name="marinchak_ninel_ievgenivna.css" crc="4078873433" ref="marinchak_ninel_ievgenivna"/>
     <file name="iefonts_marinchak_ninel_ievgenivna.css" crc="53890449" ref="marinchak_ninel_ievgenivna"/>
-    <file name="oksyuta_taras_grigorovich.css" crc="3872946594" ref="oksyuta_taras_grigorovich"/>
-    <file name="iefonts_oksyuta_taras_grigorovich.css" crc="4105447374" ref="oksyuta_taras_grigorovich"/>
-    <file name="sirosh_mikola_vasilovich.css" crc="3797577663" ref="sirosh_mikola_vasilovich"/>
-    <file name="iefonts_sirosh_mikola_vasilovich.css" crc="4004290410" ref="sirosh_mikola_vasilovich"/>
-    <file name="snegirov_vitaliy_andriyovich.css" crc="44369513" ref="snegirov_vitaliy_andriyovich"/>
-    <file name="iefonts_snegirov_vitaliy_andriyovich.css" crc="4190677005" ref="snegirov_vitaliy_andriyovich"/>
-    <file name="tarasyuk_kristina_eduardivna.css" crc="377460626" ref="tarasyuk_kristina_eduardivna"/>
-    <file name="iefonts_tarasyuk_kristina_eduardivna.css" crc="173335464" ref="tarasyuk_kristina_eduardivna"/>
+    <file name="kregul_mikola_mikolayovich.css" crc="95351483" ref="kregul_mikola_mikolayovich"/>
+    <file name="iefonts_kregul_mikola_mikolayovich.css" crc="274928712" ref="kregul_mikola_mikolayovich"/>
+    <file name="zhurba_sergiy_oleksandrovich.css" crc="420873470" ref="zhurba_sergiy_oleksandrovich"/>
+    <file name="iefonts_zhurba_sergiy_oleksandrovich.css" crc="53483177" ref="zhurba_sergiy_oleksandrovich"/>
+    <file name="stupak_olga_v_yacheslavivna.css" crc="43048758" ref="stupak_olga_v_yacheslavivna"/>
+    <file name="iefonts_stupak_olga_v_yacheslavivna.css" crc="263316613" ref="stupak_olga_v_yacheslavivna"/>
+    <file name="shilova_tetyana_semenivna.css" crc="220236982" ref="shilova_tetyana_semenivna"/>
+    <file name="iefonts_shilova_tetyana_semenivna.css" crc="365951820" ref="shilova_tetyana_semenivna"/>
+    <file name="prosud_pavlyuk_irina_yuriyivna.css" crc="32260492" ref="prosud_pavlyuk_irina_yuriyivna"/>
+    <file name="iefonts_prosud_pavlyuk_irina_yuriyivna.css" crc="351435524" ref="prosud_pavlyuk_irina_yuriyivna"/>
+    <file name="denisyuk_petro_dmitrovich.css" crc="375501270" ref="denisyuk_petro_dmitrovich"/>
+    <file name="iefonts_denisyuk_petro_dmitrovich.css" crc="163612887" ref="denisyuk_petro_dmitrovich"/>
     <file name="korotkevich_mikola_ievgenovich.css" crc="4048491769" ref="korotkevich_mikola_ievgenovich"/>
     <file name="iefonts_korotkevich_mikola_ievgenovich.css" crc="3974579047" ref="korotkevich_mikola_ievgenovich"/>
-    <file name="pervushina_olena_sergiyivna.css" crc="110003987" ref="pervushina_olena_sergiyivna"/>
-    <file name="iefonts_pervushina_olena_sergiyivna.css" crc="525501092" ref="pervushina_olena_sergiyivna"/>
+    <file name="sirosh_mikola_vasilovich.css" crc="3797577663" ref="sirosh_mikola_vasilovich"/>
+    <file name="iefonts_sirosh_mikola_vasilovich.css" crc="4004290410" ref="sirosh_mikola_vasilovich"/>
     <file name="lagnyuk_mikola_mihaylovich.css" crc="2129839" ref="lagnyuk_mikola_mihaylovich"/>
     <file name="iefonts_lagnyuk_mikola_mihaylovich.css" crc="402583010" ref="lagnyuk_mikola_mihaylovich"/>
-    <file name="arsiriy_ruslan_oleksandrovich.css" crc="153439937" ref="arsiriy_ruslan_oleksandrovich"/>
-    <file name="iefonts_arsiriy_ruslan_oleksandrovich.css" crc="3926645861" ref="arsiriy_ruslan_oleksandrovich"/>
+    <file name="prosud_mamchur_yaroslav_stepanovich.css" crc="4134025874" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="iefonts_prosud_mamchur_yaroslav_stepanovich.css" crc="394144032" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="epel_oksana_volodimirivna.css" crc="26278412" ref="epel_oksana_volodimirivna"/>
     <file name="iefonts_epel_oksana_volodimirivna.css" crc="235569579" ref="epel_oksana_volodimirivna"/>
     <file name="konstituc_jnij_sud_ukraini_chastina_3.css" crc="306590735" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_3.css" crc="4205432848" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
+    <file name="drobotova_tetyana_borisivna.css" crc="3937414170" ref="drobotova_tetyana_borisivna"/>
+    <file name="iefonts_drobotova_tetyana_borisivna.css" crc="140275936" ref="drobotova_tetyana_borisivna"/>
+    <file name="iemec_anatoliy_anatoliyovich.css" crc="118210612" ref="iemec_anatoliy_anatoliyovich"/>
+    <file name="iefonts_iemec_anatoliy_anatoliyovich.css" crc="3790273163" ref="iemec_anatoliy_anatoliyovich"/>
+    <file name="rotmistrenko_mihaylo_volodimirovich.css" crc="282752480" ref="rotmistrenko_mihaylo_volodimirovich"/>
+    <file name="iefonts_rotmistrenko_mihaylo_volodimirovich.css" crc="4113129114" ref="rotmistrenko_mihaylo_volodimirovich"/>
+    <file name="saltan_lyudmila_volodimirivna.css" crc="111234318" ref="saltan_lyudmila_volodimirivna"/>
+    <file name="iefonts_saltan_lyudmila_volodimirivna.css" crc="4248850664" ref="saltan_lyudmila_volodimirivna"/>
+    <file name="mogil_sergiy_kostyantinovich.css" crc="4200482493" ref="mogil_sergiy_kostyantinovich"/>
+    <file name="iefonts_mogil_sergiy_kostyantinovich.css" crc="108686060" ref="mogil_sergiy_kostyantinovich"/>
+    <file name="prosud_shevchenko_oleksandr_vasilovich.css" crc="518446781" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="iefonts_prosud_shevchenko_oleksandr_vasilovich.css" crc="3868193850" ref="prosud_shevchenko_oleksandr_vasilovich"/>
+    <file name="danilova_malvina_volodimirivna.css" crc="326197782" ref="danilova_malvina_volodimirivna"/>
+    <file name="iefonts_danilova_malvina_volodimirivna.css" crc="376558704" ref="danilova_malvina_volodimirivna"/>
+    <file name="prosud_avramenko_mikola_grigorovich.css" crc="3888204274" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="iefonts_prosud_avramenko_mikola_grigorovich.css" crc="356751090" ref="prosud_avramenko_mikola_grigorovich"/>
+    <file name="arsiriy_ruslan_oleksandrovich.css" crc="153439937" ref="arsiriy_ruslan_oleksandrovich"/>
+    <file name="iefonts_arsiriy_ruslan_oleksandrovich.css" crc="3926645861" ref="arsiriy_ruslan_oleksandrovich"/>
+    <file name="kravchuk_gennadiy_anatoliyovich.css" crc="284554408" ref="kravchuk_gennadiy_anatoliyovich"/>
+    <file name="iefonts_kravchuk_gennadiy_anatoliyovich.css" crc="4259579330" ref="kravchuk_gennadiy_anatoliyovich"/>
+    <file name="prosud_video.css" crc="3828573933" ref="prosud_video"/>
+    <file name="tishchenko_oksana_volodimirivna.css" crc="3802449627" ref="tishchenko_oksana_volodimirivna"/>
+    <file name="iefonts_tishchenko_oksana_volodimirivna.css" crc="281871145" ref="tishchenko_oksana_volodimirivna"/>
+    <file name="prosud_garnik_lyudmila__leonidivna.css" crc="3819474330" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="iefonts_prosud_garnik_lyudmila__leonidivna.css" crc="4091903466" ref="prosud_garnik_lyudmila__leonidivna"/>
+    <file name="konstituc_jnij_sud_ukraini_chastina_1.css" crc="239242245" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
+    <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_1.css" crc="3924586049" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
+    <file name="a_sudd__nas_rova_hto.css" crc="332236026" ref="a_suddі_nasіrova_hto"/>
+    <file name="iefonts_a_sudd__nas_rova_hto.css" crc="4259578712" ref="a_suddі_nasіrova_hto"/>
+    <file name="ivanishchuk_andriy_anatoliyovich.css" crc="4151921895" ref="ivanishchuk_andriy_anatoliyovich"/>
+    <file name="iefonts_ivanishchuk_andriy_anatoliyovich.css" crc="3801043352" ref="ivanishchuk_andriy_anatoliyovich"/>
+    <file name="basay_oleg_viktorovich.css" crc="3879048130" ref="basay_oleg_viktorovich"/>
+    <file name="iefonts_basay_oleg_viktorovich.css" crc="3796103421" ref="basay_oleg_viktorovich"/>
+    <file name="prosud_fazikosh_ganna_vasilivna.css" crc="70255469" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="iefonts_prosud_fazikosh_ganna_vasilivna.css" crc="4242889940" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="popovich_irina_mikolayivna.css" crc="3775295162" ref="popovich_irina_mikolayivna"/>
+    <file name="iefonts_popovich_irina_mikolayivna.css" crc="4049990284" ref="popovich_irina_mikolayivna"/>
+    <file name="volosko_irina_romanivna.css" crc="3865400687" ref="volosko_irina_romanivna"/>
+    <file name="iefonts_volosko_irina_romanivna.css" crc="4219375646" ref="volosko_irina_romanivna"/>
+    <file name="tarasyuk_kristina_eduardivna.css" crc="377460626" ref="tarasyuk_kristina_eduardivna"/>
+    <file name="iefonts_tarasyuk_kristina_eduardivna.css" crc="173335464" ref="tarasyuk_kristina_eduardivna"/>
+    <file name="karpyak_oksana_orest_vna.css" crc="308503719" ref="karpyak_oksana_orestіvna"/>
+    <file name="iefonts_karpyak_oksana_orest_vna.css" crc="3953904781" ref="karpyak_oksana_orestіvna"/>
+    <file name="oksyuta_taras_grigorovich.css" crc="3872946594" ref="oksyuta_taras_grigorovich"/>
+    <file name="iefonts_oksyuta_taras_grigorovich.css" crc="4105447374" ref="oksyuta_taras_grigorovich"/>
+    <file name="pervushina_olena_sergiyivna.css" crc="110003987" ref="pervushina_olena_sergiyivna"/>
+    <file name="iefonts_pervushina_olena_sergiyivna.css" crc="525501092" ref="pervushina_olena_sergiyivna"/>
+    <file name="index.css" crc="52281278" ref="index"/>
+    <file name="snegirov_vitaliy_andriyovich.css" crc="44369513" ref="snegirov_vitaliy_andriyovich"/>
+    <file name="iefonts_snegirov_vitaliy_andriyovich.css" crc="4190677005" ref="snegirov_vitaliy_andriyovich"/>
+    <file name="bashmakov_ievgen_anatoliyovich.css" crc="4102246654" ref="bashmakov_ievgen_anatoliyovich"/>
+    <file name="iefonts_bashmakov_ievgen_anatoliyovich.css" crc="188995063" ref="bashmakov_ievgen_anatoliyovich"/>
+    <file name="prosud_paholyuk_anatoliy_mihaylovich.css" crc="249145489" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="iefonts_prosud_paholyuk_anatoliy_mihaylovich.css" crc="4089437131" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="prosud_pyatkovskiy_volodimir_ivanovich.css" crc="199561946" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="iefonts_prosud_pyatkovskiy_volodimir_ivanovich.css" crc="4057552758" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
+    <file name="stratiienko_lyudmila_vasilivna.css" crc="461458965" ref="stratiienko_lyudmila_vasilivna"/>
+    <file name="iefonts_stratiienko_lyudmila_vasilivna.css" crc="4211369348" ref="stratiienko_lyudmila_vasilivna"/>
+    <file name="kiyashko_oleksandr_anatoliyovich.css" crc="171677633" ref="kiyashko_oleksandr_anatoliyovich"/>
+    <file name="iefonts_kiyashko_oleksandr_anatoliyovich.css" crc="121550047" ref="kiyashko_oleksandr_anatoliyovich"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
@@ -137,18 +137,84 @@
     <file name="fb_btn-u2484-r-fr.jpg" crc="229970286" ref="index"/>
     <file name="twitter_btn-u2485-fr.png" crc="106801748" ref="index"/>
     <file name="twitter_btn-u2485-r-fr.jpg" crc="266809122" ref="index"/>
-    <file name="shevchenko7336x189.jpg" crc="448656692" seo="true" ref="index"/>
-    <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
-    <file name="avramenko12-crop-u2324.jpg" crc="362168929" ref="index"/>
-    <file name="sokurenko6-crop-u2321.jpg" crc="244071909" ref="index"/>
+    <file name="обложка.jpg" crc="4102289" seo="true" ref="index"/>
     <file name="u2312.png" crc="3953825259" ref="index"/>
     <file name="u2312-r.png" crc="4198272533" ref="index"/>
+    <file name="обложка-crop-u22342.jpg" crc="3777082657" ref="index"/>
+    <file name="обложка2.jpg" crc="4198382659" seo="true" ref="index"/>
+    <file name="обложка-crop-u36803.jpg" crc="4240426560" ref="index"/>
+    <file name="обложка-crop-u36201.jpg" crc="3866844371" ref="index"/>
+    <file name="arsiriy1296x210.jpg" crc="71310797" seo="true" ref="index"/>
+    <file name="коллаж.jpg" crc="286298885" seo="true" ref="index"/>
+    <file name="snegirov-crop-u34568.jpg" crc="4146312983" ref="index"/>
+    <file name="epel-crop-u34032.jpg" crc="3999428472" ref="index"/>
+    <file name="oblozhka_marinchak-crop-u33570.jpg" crc="310717241" ref="index"/>
+    <file name="oksyuta1279x258.jpg" crc="4284536576" seo="true" ref="index"/>
+    <file name="обложка3.jpg" crc="3944488902" seo="true" ref="index"/>
+    <file name="lexus_rx-300_r7.jpg" crc="323605882" seo="true" ref="index"/>
+    <file name="mogil11304x210.jpg" crc="10164882" seo="true" ref="index"/>
+    <file name="antonenko_oblozhka-crop-u30047.jpg" crc="278566549" ref="index"/>
+    <file name="poprevich3280x211.jpg" crc="4103497872" seo="true" ref="index"/>
+    <file name="lagnyuk_oblozhka-crop-u29138.jpg" crc="119895540" ref="index"/>
+    <file name="danilova_oblozhka-crop-u28455.jpg" crc="189590743" ref="index"/>
+    <file name="karaban8278x213.jpg" crc="3991395199" seo="true" ref="index"/>
+    <file name="drobotova12316x210.jpg" crc="4107787591" seo="true" ref="index"/>
+    <file name="oblozhka_bondar-crop-u26439.jpg" crc="4151475820" ref="index"/>
+    <file name="kravchuk7316x211.jpg" crc="187410399" seo="true" ref="index"/>
+    <file name="обложка-crop-u25217.jpg" crc="83383249" ref="index"/>
+    <file name="e502ec07-aa70-41b3-a802-18d7f36934ff-crop-u24763.jpg" crc="347568590" ref="index"/>
+    <file name="basay1302x210.jpg" crc="48008116" seo="true" ref="index"/>
+    <file name="rotmistrenko_oblozhka.jpg" crc="287405984" seo="true" ref="index"/>
+    <file name="обложка-crop-u23486.jpg" crc="162183653" ref="index"/>
+    <file name="tarasyuk6301x209.jpg" crc="470136185" seo="true" ref="index"/>
+    <file name="обложка2-crop-u22881.jpg" crc="2242446" ref="index"/>
+    <file name="обложка-crop-u23789.jpg" crc="3777082657" ref="index"/>
+    <file name="обложка4.jpg" crc="4242345218" seo="true" ref="index"/>
+    <file name="обложка-crop-u20690.jpg" crc="3803249944" ref="index"/>
+    <file name="ksu1-111.jpg" crc="258441010" seo="true" ref="index"/>
+    <file name="vlcsnap-2016-10-23-19h04m44s322.jpg" crc="161590861" seo="true" ref="index"/>
+    <file name="dji_0178-crop-u17402.jpg" crc="4091394215" ref="index"/>
+    <file name="без лого.jpg" crc="136911956" seo="true" ref="index"/>
+    <file name="nezhura6-crop-u16231.jpg" crc="390834044" ref="index"/>
+    <file name="dji_0605.jpg" crc="173648643" seo="true" ref="index"/>
+    <file name="saltan11.jpg" crc="258453558" seo="true" ref="index"/>
+    <file name="dji_0518.jpg" crc="4001298584" seo="true" ref="index"/>
+    <file name="волоско_дом1-crop-u13689.jpg" crc="276828354" ref="index"/>
+    <file name="dji_0148-crop-u12986.jpg" crc="350148682" ref="index"/>
+    <file name="karpyak7-crop-u12645.jpg" crc="4102969154" ref="index"/>
+    <file name="kregul13-crop-u11184.jpg" crc="375656010" ref="index"/>
+    <file name="pavlichenko23-crop-u10197.jpg" crc="530033022" ref="index"/>
+    <file name="pyatkovskiy161-crop-u9072.jpg" crc="514256861" ref="index"/>
+    <file name="fazikosh10-crop-u8111.jpg" crc="270215430" ref="index"/>
+    <file name="paholyuk14-crop-u7472.jpg" crc="188481738" ref="index"/>
+    <file name="pavlyuk122-crop-u6270.jpg" crc="3937027823" ref="index"/>
+    <file name="mamchur7-crop-u4979.jpg" crc="3873123621" ref="index"/>
+    <file name="shevchenko7336x189.jpg" crc="448656692" seo="true" ref="index"/>
+    <file name="garnik61.jpg" crc="76511873" seo="true" ref="index"/>
+    <file name="avramenko12-crop-u2324.jpg" crc="4193762768" ref="index"/>
+    <file name="sokurenko6-crop-u2321.jpg" crc="3898937303" ref="index"/>
     <file name="sokurenko00-crop-u2123.jpg" crc="247913228" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko1.jpg" crc="4040525106" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko2.jpg" crc="519491676" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko31.jpg" crc="82516932" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko.jpg" crc="4154550884" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko41.jpg" crc="245905984" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko91.jpg" crc="432752103" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="sokurenko11.jpg" crc="4104141016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="toyota_land_cruiser_prado_15034-crop-u2041.jpg" crc="4062275993" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="starcraft.jpg" crc="255751813" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="honda_crv_2008_022.jpg" crc="4230804297" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun.jpg" crc="4092131644" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="blank.gif" crc="4208392903" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_2:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
+    <file name="shokun7.jpg" crc="519838277" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun6.jpg" crc="487631079" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun-crop-u2104.jpg" crc="3917389910" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun7-crop-u2106.jpg" crc="4058552455" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="shokun6-crop-u2102.jpg" crc="4217906000" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="loading.gif" crc="3815509949" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_2:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
+    <file name="sokurenko10.jpg" crc="3894292687" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
+    <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
+    <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
+    <file name="sokurenko41.jpg" crc="245905984" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko71.jpg" crc="17235016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko6.jpg" crc="44918504" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko51.jpg" crc="3817520187" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -158,8 +224,6 @@
     <file name="sokurenko6-crop-u2015.jpg" crc="3807324946" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko51-crop-u2023.jpg" crc="247418126" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="sokurenko81-crop-u2017.jpg" crc="352965354" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="loading.gif" crc="3815509949" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_2:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
-    <file name="sokurenko11.jpg" crc="4104141016" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun2.jpg" crc="225913629" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun3.jpg" crc="234229042" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun4.jpg" crc="4121533180" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
@@ -172,18 +236,6 @@
     <file name="shokun5-crop-u2082.jpg" crc="344954539" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun8-crop-u2080.jpg" crc="4052391886" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="shokun9-crop-u2084.jpg" crc="514640949" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="toyota_land_cruiser_prado_15034-crop-u2041.jpg" crc="4062275993" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="starcraft.jpg" crc="255751813" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="honda_crv_2008_022.jpg" crc="4230804297" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun.jpg" crc="4092131644" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun7.jpg" crc="519838277" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun6.jpg" crc="487631079" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun-crop-u2104.jpg" crc="3917389910" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun7-crop-u2106.jpg" crc="4058552455" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="shokun6-crop-u2102.jpg" crc="4217906000" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko10.jpg" crc="3894292687" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
-    <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna"/>
     <file name="avramenko21.jpg" crc="449958240" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko3.jpg" crc="203456728" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
     <file name="avramenko4.jpg" crc="403086280" seo="true" ref="prosud_avramenko_mikola_grigorovich"/>
@@ -288,9 +340,9 @@
     <file name="mamchur.jpg" crc="4107743471" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur2.jpg" crc="4022149443" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur3.jpg" crc="3824128038" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="mamchur5.jpg" crc="3913452488" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur6.jpg" crc="3884739090" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="mamchur7-crop-u4979.jpg" crc="3873123621" ref="index"/>
+    <file name="mamchur5.jpg" crc="3913452488" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
+    <file name="mamchur4.jpg" crc="4114514195" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur9.jpg" crc="4056886441" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur11.jpg" crc="379764124" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur12.jpg" crc="4185049128" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
@@ -299,8 +351,6 @@
     <file name="mamchur8.jpg" crc="494078023" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur760x45.jpg" crc="280280467" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
     <file name="mamchur860x45.jpg" crc="4004265383" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="mamchur4.jpg" crc="4114514195" seo="true" ref="prosud_mamchur_yaroslav_stepanovich"/>
-    <file name="pavlyuk122-crop-u6270.jpg" crc="3937027823" ref="index"/>
     <file name="pavlyuk.jpg" crc="452359623" seo="true" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="pavlyuk2.jpg" crc="175589819" seo="true" ref="prosud_pavlyuk_irina_yuriyivna"/>
     <file name="pavlyuk3.jpg" crc="3982543512" seo="true" ref="prosud_pavlyuk_irina_yuriyivna"/>
@@ -331,21 +381,19 @@
     <file name="paholyuk131.jpg" crc="129923097" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk11.jpg" crc="489514589" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk7.jpg" crc="30704293" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk14.jpg" crc="149525743" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk14-crop-u7100.jpg" crc="4057075655" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk8.jpg" crc="362571356" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk9.jpg" crc="119086968" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk10.jpg" crc="82324341" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk12.jpg" crc="287234744" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk16.jpg" crc="14405709" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="bmw-x5-08.jpg" crc="3765356126" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="paholyuk14-crop-u7472.jpg" crc="188481738" ref="index"/>
     <file name="paholyuk8-crop-u6833.jpg" crc="465151596" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk9-crop-u7398.jpg" crc="4225959321" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk10-crop-u7418.jpg" crc="182048364" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk14.jpg" crc="149525743" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17.jpg" crc="3995931415" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk14-crop-u7100.jpg" crc="4057075655" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="paholyuk17-crop-u7183.jpg" crc="471860590" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
-    <file name="fazikosh10-crop-u8111.jpg" crc="4043680676" ref="index"/>
+    <file name="paholyuk12.jpg" crc="287234744" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="paholyuk16.jpg" crc="14405709" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
+    <file name="bmw-x5-08.jpg" crc="3765356126" seo="true" ref="prosud_paholyuk_anatoliy_mihaylovich"/>
     <file name="fazikosh1.jpg" crc="4051323110" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2.jpg" crc="156254637" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh3.jpg" crc="136146883" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
@@ -366,14 +414,13 @@
     <file name="fazikosh10-crop-u7751.jpg" crc="3972922312" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh11-crop-u7771.jpg" crc="3878972848" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh8-crop-u7801.jpg" crc="282507259" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="fazikosh12.jpg" crc="4014606229" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="fazikosh12-crop-u7991.jpg" crc="84770847" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="fazikosh18.jpg" crc="447263489" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh21.jpg" crc="4200948548" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh22.jpg" crc="99129564" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="fazikosh12.jpg" crc="4014606229" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2160x46.jpg" crc="4240131496" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="fazikosh2260x45.jpg" crc="4169626659" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
-    <file name="pyatkovskiy161-crop-u9072.jpg" crc="514256861" ref="index"/>
+    <file name="fazikosh12-crop-u7991.jpg" crc="84770847" ref="prosud_fazikosh_ganna_vasilivna"/>
+    <file name="fazikosh18.jpg" crc="447263489" seo="true" ref="prosud_fazikosh_ganna_vasilivna"/>
     <file name="pyatkovskiy.jpg" crc="3840480573" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy2.jpg" crc="165860796" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy4.jpg" crc="4021199251" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
@@ -397,7 +444,6 @@
     <file name="pyatkovskiy14.jpg" crc="422646329" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy21.jpg" crc="3938920021" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
     <file name="pyatkovskiy20.jpg" crc="4106721409" seo="true" ref="prosud_pyatkovskiy_volodimir_ivanovich"/>
-    <file name="pavlichenko23-crop-u10197.jpg" crc="4007171242" ref="index"/>
     <file name="pavlichenko1.jpg" crc="4239719464" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko.jpg" crc="310353424" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko2.jpg" crc="4065024697" seo="true" ref="pavlichenko_sergiy_viktorovich"/>
@@ -431,7 +477,6 @@
     <file name="pavlichenko23-crop-u10021.jpg" crc="4102479640" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko24-crop-u10017.jpg" crc="431408978" ref="pavlichenko_sergiy_viktorovich"/>
     <file name="pavlichenko22-crop-u10019.jpg" crc="3873417967" ref="pavlichenko_sergiy_viktorovich"/>
-    <file name="kregul13-crop-u11184.jpg" crc="125200466" ref="index"/>
     <file name="kregul.jpg" crc="4265120194" seo="true" ref="kregul_mikola_mikolayovich"/>
     <file name="kregul2.jpg" crc="3903137191" seo="true" ref="kregul_mikola_mikolayovich"/>
     <file name="kregul3.jpg" crc="3973051970" seo="true" ref="kregul_mikola_mikolayovich"/>
@@ -467,7 +512,6 @@
     <file name="karpyak8-crop-u11967.jpg" crc="8702788" ref="karpyak_oksana_orestіvna"/>
     <file name="karpyak9-crop-u11987.jpg" crc="3782271842" ref="karpyak_oksana_orestіvna"/>
     <file name="karpyak1060x47.jpg" crc="4083452712" seo="true" ref="karpyak_oksana_orestіvna"/>
-    <file name="karpyak7-crop-u12645.jpg" crc="4102969154" ref="index"/>
     <file name="shilova1.jpg" crc="298191759" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova2.jpg" crc="35473123" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova3.jpg" crc="336069050" seo="true" ref="shilova_tetyana_semenivna"/>
@@ -477,17 +521,17 @@
     <file name="shilova7.jpg" crc="307351981" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova8.jpg" crc="445300887" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova9.jpg" crc="112998166" seo="true" ref="shilova_tetyana_semenivna"/>
-    <file name="shilova13.jpg" crc="535917174" seo="true" ref="shilova_tetyana_semenivna"/>
-    <file name="shilova14.jpg" crc="3781090466" seo="true" ref="shilova_tetyana_semenivna"/>
-    <file name="shilova15.jpg" crc="71009895" seo="true" ref="shilova_tetyana_semenivna"/>
-    <file name="shilova16.jpg" crc="56715397" seo="true" ref="shilova_tetyana_semenivna"/>
-    <file name="shilova17.jpg" crc="4158157598" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova10.jpg" crc="4062689439" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="шилова с вод знаками2.jpg" crc="353090696" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="филова с вод знаками3.jpg" crc="284871119" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="shilova10-crop-u12346.jpg" crc="507691753" ref="shilova_tetyana_semenivna"/>
     <file name="шилова с вод знаками2-crop-u13037.jpg" crc="211538424" ref="shilova_tetyana_semenivna"/>
     <file name="филова с вод знаками3-crop-u13178.jpg" crc="130617630" ref="shilova_tetyana_semenivna"/>
+    <file name="shilova13.jpg" crc="535917174" seo="true" ref="shilova_tetyana_semenivna"/>
+    <file name="shilova14.jpg" crc="3781090466" seo="true" ref="shilova_tetyana_semenivna"/>
+    <file name="shilova15.jpg" crc="71009895" seo="true" ref="shilova_tetyana_semenivna"/>
+    <file name="shilova16.jpg" crc="56715397" seo="true" ref="shilova_tetyana_semenivna"/>
+    <file name="shilova17.jpg" crc="4158157598" seo="true" ref="shilova_tetyana_semenivna"/>
     <file name="volosko1.jpg" crc="3813670188" seo="true" ref="volosko_irina_romanivna"/>
     <file name="volosko2.jpg" crc="30659938" seo="true" ref="volosko_irina_romanivna"/>
     <file name="volosko3.jpg" crc="3786165244" seo="true" ref="volosko_irina_romanivna"/>
@@ -514,9 +558,6 @@
     <file name="volosko7-crop-u13333.jpg" crc="303386167" ref="volosko_irina_romanivna"/>
     <file name="volosko8-crop-u13331.jpg" crc="3922480138" ref="volosko_irina_romanivna"/>
     <file name="volosko9-crop-u13335.jpg" crc="4174441712" ref="volosko_irina_romanivna"/>
-    <file name="dji_0518.jpg" crc="4001298584" seo="true" ref="index"/>
-    <file name="волоско_дом1-crop-u13689.jpg" crc="276828354" ref="index"/>
-    <file name="dji_0148-crop-u12986.jpg" crc="350148682" ref="index"/>
     <file name="ivanishchuk1.jpg" crc="4244598329" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
     <file name="ivanishchuk2.jpg" crc="456206754" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
     <file name="ivanishchuk3.jpg" crc="4291618062" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
@@ -548,7 +589,6 @@
     <file name="ivanishchuk24.jpg" crc="165996048" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
     <file name="ivanishchuk25.jpg" crc="108317869" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
     <file name="ivanishchuk26.jpg" crc="30125671" seo="true" ref="ivanishchuk_andriy_anatoliyovich"/>
-    <file name="saltan11.jpg" crc="258453558" seo="true" ref="index"/>
     <file name="saltan1.jpg" crc="439806231" seo="true" ref="saltan_lyudmila_volodimirivna"/>
     <file name="saltan2.jpg" crc="4100228662" seo="true" ref="saltan_lyudmila_volodimirivna"/>
     <file name="saltan3.jpg" crc="86901438" seo="true" ref="saltan_lyudmila_volodimirivna"/>
@@ -562,7 +602,7 @@
     <file name="saltan5-crop-u14502.jpg" crc="3914440651" ref="saltan_lyudmila_volodimirivna"/>
     <file name="saltan6-crop-u14603.jpg" crc="215970697" ref="saltan_lyudmila_volodimirivna"/>
     <file name="saltan7-crop-u14631.jpg" crc="391740912" ref="saltan_lyudmila_volodimirivna"/>
-    <file name="dji_0605.jpg" crc="173648643" seo="true" ref="index"/>
+    <file name="krikliviy_new.jpg" crc="3779670407" seo="true" ref="krikliviy_oleg_mikolayovich"/>
     <file name="krikliviy2.jpg" crc="4259174677" seo="true" ref="krikliviy_oleg_mikolayovich"/>
     <file name="krikliviy3.jpg" crc="3886417278" seo="true" ref="krikliviy_oleg_mikolayovich"/>
     <file name="krikliviy4.jpg" crc="4142730501" seo="true" ref="krikliviy_oleg_mikolayovich"/>
@@ -580,13 +620,13 @@
     <file name="krikliviy9-crop-u15233.jpg" crc="4261493315" ref="krikliviy_oleg_mikolayovich"/>
     <file name="krikliviy10.jpg" crc="129101465" seo="true" ref="krikliviy_oleg_mikolayovich"/>
     <file name="krikliviy11.jpg" crc="3830014629" seo="true" ref="krikliviy_oleg_mikolayovich"/>
-    <file name="krikliviy_new.jpg" crc="3779670407" seo="true" ref="krikliviy_oleg_mikolayovich"/>
-    <file name="sokurenko31.jpg" crc="82516932" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
-    <file name="sokurenko91.jpg" crc="432752103" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich"/>
     <file name="nejura.jpg" crc="4190490416" seo="true" ref="nezhura_vadim_anatoliyovich"/>
     <file name="nezhura.jpg" crc="119254301" seo="true" ref="nezhura_vadim_anatoliyovich"/>
     <file name="nezhura3.jpg" crc="4214790625" seo="true" ref="nezhura_vadim_anatoliyovich"/>
+    <file name="nezhura81.jpg" crc="238881047" seo="true" ref="nezhura_vadim_anatoliyovich"/>
     <file name="nezhura9.jpg" crc="4204772972" seo="true" ref="nezhura_vadim_anatoliyovich"/>
+    <file name="nezhura101.jpg" crc="4114418313" seo="true" ref="nezhura_vadim_anatoliyovich"/>
+    <file name="prosud-logo22.png" crc="3780763654" seo="true" ref="nezhura_vadim_anatoliyovich"/>
     <file name="vlcsnap-error5061.jpg" crc="4196108893" seo="true" ref="nezhura_vadim_anatoliyovich:kiyashko_oleksandr_anatoliyovich"/>
     <file name="vlcsnap-error657.jpg" crc="3832438852" seo="true" ref="nezhura_vadim_anatoliyovich:kiyashko_oleksandr_anatoliyovich"/>
     <file name="vlcsnap-error408.jpg" crc="3766383375" seo="true" ref="nezhura_vadim_anatoliyovich:kiyashko_oleksandr_anatoliyovich"/>
@@ -597,11 +637,6 @@
     <file name="nezhura41.jpg" crc="3986449676" seo="true" ref="nezhura_vadim_anatoliyovich"/>
     <file name="nezhura4-crop-u15965.jpg" crc="3851013924" ref="nezhura_vadim_anatoliyovich"/>
     <file name="nezhura41-crop-u15967.jpg" crc="439694050" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="nezhura6-crop-u16231.jpg" crc="390834044" ref="index"/>
-    <file name="nezhura81.jpg" crc="238881047" seo="true" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="nezhura101.jpg" crc="4114418313" seo="true" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="prosud-logo22.png" crc="3780763654" seo="true" ref="nezhura_vadim_anatoliyovich"/>
-    <file name="без лого.jpg" crc="136911956" seo="true" ref="index"/>
     <file name="bashmakov1.jpg" crc="3831083614" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
     <file name="bashmakov2.jpg" crc="214427157" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
     <file name="bashmakov3.jpg" crc="331796219" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
@@ -617,7 +652,6 @@
     <file name="bashmakov10.jpg" crc="4200098360" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
     <file name="bashmakov11.jpg" crc="3938317289" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
     <file name="bashmakov12.jpg" crc="400911158" seo="true" ref="bashmakov_ievgen_anatoliyovich"/>
-    <file name="dji_0178-crop-u17402.jpg" crc="4091394215" ref="index"/>
     <file name="petrenko1-crop-u16764.jpg" crc="4198891590" ref="petrenko_nataliya_eduardivna"/>
     <file name="petrenko2.jpg" crc="4119127043" seo="true" ref="petrenko_nataliya_eduardivna"/>
     <file name="petrenko3.jpg" crc="3880697362" seo="true" ref="petrenko_nataliya_eduardivna"/>
@@ -644,7 +678,6 @@
     <file name="petrenko18-crop-u17205.jpg" crc="169251666" ref="petrenko_nataliya_eduardivna"/>
     <file name="petrenko19.jpg" crc="3888415602" seo="true" ref="petrenko_nataliya_eduardivna"/>
     <file name="petrenko20.jpg" crc="4265549186" seo="true" ref="petrenko_nataliya_eduardivna"/>
-    <file name="vlcsnap-2016-10-23-19h04m44s322.jpg" crc="161590861" seo="true" ref="index"/>
     <file name="denisyuk1.jpg" crc="443811973" seo="true" ref="denisyuk_petro_dmitrovich"/>
     <file name="denisyuk2.jpg" crc="392923975" seo="true" ref="denisyuk_petro_dmitrovich"/>
     <file name="denisyuk3.jpg" crc="4103489957" seo="true" ref="denisyuk_petro_dmitrovich"/>
@@ -660,8 +693,8 @@
     <file name="denisyuk9.jpg" crc="302398596" seo="true" ref="denisyuk_petro_dmitrovich"/>
     <file name="denisyuk10.jpg" crc="4288891458" seo="true" ref="denisyuk_petro_dmitrovich"/>
     <file name="denisyuk11.jpg" crc="4156513877" seo="true" ref="denisyuk_petro_dmitrovich"/>
-    <file name="ksu1-111.jpg" crc="258441010" seo="true" ref="index"/>
-    <file name="ksu1-1-crop-u18311.jpg" crc="416006083" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
+    <file name="ksu1-1-crop-u18311.jpg" crc="306840924" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
+    <file name="ksu1-2.jpg" crc="3870265372" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-3.jpg" crc="384634192" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-4.jpg" crc="3886616682" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-5.jpg" crc="4001966668" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
@@ -698,7 +731,6 @@
     <file name="ksu1-36.jpg" crc="270833618" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-37.jpg" crc="4098343129" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu1-38.jpg" crc="116046951" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
-    <file name="ksu1-2.jpg" crc="3870265372" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="ksu2_1.jpg" crc="3924675703" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
     <file name="ksu2_2.jpg" crc="3920309196" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
     <file name="ksu2_3.jpg" crc="420351316" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
@@ -719,38 +751,6 @@
     <file name="ksu2_15.jpg" crc="4234503921" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
     <file name="551d85cd88314.jpg" crc="3812855718" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
     <file name="odd3.jpg" crc="4022362946" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_2"/>
-    <file name="обложка.jpg" crc="4102289" seo="true" ref="index"/>
-    <file name="обложка-crop-u22342.jpg" crc="3777082657" ref="index"/>
-    <file name="обложка2.jpg" crc="4198382659" seo="true" ref="index"/>
-    <file name="обложка-crop-u36803.jpg" crc="4240426560" ref="index"/>
-    <file name="обложка-crop-u36201.jpg" crc="3866844371" ref="index"/>
-    <file name="arsiriy1296x210.jpg" crc="71310797" seo="true" ref="index"/>
-    <file name="коллаж.jpg" crc="286298885" seo="true" ref="index"/>
-    <file name="snegirov-crop-u34568.jpg" crc="4146312983" ref="index"/>
-    <file name="epel-crop-u34032.jpg" crc="3999428472" ref="index"/>
-    <file name="oblozhka_marinchak-crop-u33570.jpg" crc="310717241" ref="index"/>
-    <file name="oksyuta1279x258.jpg" crc="4284536576" seo="true" ref="index"/>
-    <file name="обложка3.jpg" crc="3944488902" seo="true" ref="index"/>
-    <file name="lexus_rx-300_r7.jpg" crc="323605882" seo="true" ref="index"/>
-    <file name="mogil11304x210.jpg" crc="10164882" seo="true" ref="index"/>
-    <file name="antonenko_oblozhka-crop-u30047.jpg" crc="278566549" ref="index"/>
-    <file name="poprevich3280x211.jpg" crc="4103497872" seo="true" ref="index"/>
-    <file name="lagnyuk_oblozhka-crop-u29138.jpg" crc="119895540" ref="index"/>
-    <file name="danilova_oblozhka-crop-u28455.jpg" crc="189590743" ref="index"/>
-    <file name="karaban8278x213.jpg" crc="3991395199" seo="true" ref="index"/>
-    <file name="drobotova12316x210.jpg" crc="4107787591" seo="true" ref="index"/>
-    <file name="oblozhka_bondar-crop-u26439.jpg" crc="4151475820" ref="index"/>
-    <file name="kravchuk7316x211.jpg" crc="187410399" seo="true" ref="index"/>
-    <file name="обложка-crop-u25217.jpg" crc="83383249" ref="index"/>
-    <file name="e502ec07-aa70-41b3-a802-18d7f36934ff-crop-u24763.jpg" crc="347568590" ref="index"/>
-    <file name="basay1302x210.jpg" crc="48008116" seo="true" ref="index"/>
-    <file name="rotmistrenko_oblozhka.jpg" crc="287405984" seo="true" ref="index"/>
-    <file name="обложка-crop-u23486.jpg" crc="162183653" ref="index"/>
-    <file name="tarasyuk6301x209.jpg" crc="470136185" seo="true" ref="index"/>
-    <file name="обложка2-crop-u22881.jpg" crc="2242446" ref="index"/>
-    <file name="обложка-crop-u23789.jpg" crc="3777082657" ref="index"/>
-    <file name="обложка4.jpg" crc="4242345218" seo="true" ref="index"/>
-    <file name="обложка-crop-u20690.jpg" crc="3803249944" ref="index"/>
     <file name="ksu3_1.jpg" crc="4009401581" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_2.jpg" crc="4062598412" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="ksu3_3.jpg" crc="3824344816" seo="true" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
@@ -1468,30 +1468,30 @@
     <file name="st24.jpg" crc="4256095823" seo="true" ref="stupak_olga_v_yacheslavivna"/>
     <file name="st25.jpg" crc="452788891" seo="true" ref="stupak_olga_v_yacheslavivna"/>
   </folder>
-  <file name="index.html" crc="3818535151" seo="true" mt="1494398219107" redirect="true"/>
-  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3947029849" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="index.html" crc="3810745519" seo="true" mt="1494398219107" redirect="true"/>
+  <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3850093505" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="332294623" seo="true" mt="1477380016425" redirect="true"/>
-  <file name="prosud_avramenko_mikola_grigorovich.html" crc="87539832" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="277858291" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="4225974657" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="335280407" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_pavlyuk_irina_yuriyivna.html" crc="3838838000" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="258873191" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_fazikosh_ganna_vasilivna.html" crc="3972358284" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="prosud_pyatkovskiy_volodimir_ivanovich.html" crc="3822914281" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="pavlichenko_sergiy_viktorovich.html" crc="276024709" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="kregul_mikola_mikolayovich.html" crc="332427239" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="karpyak_oksana_orestіvna.html" crc="275429722" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="shilova_tetyana_semenivna.html" crc="340245981" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="volosko_irina_romanivna.html" crc="251700959" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="ivanishchuk_andriy_anatoliyovich.html" crc="3953429605" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="saltan_lyudmila_volodimirivna.html" crc="82836168" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="krikliviy_oleg_mikolayovich.html" crc="127761214" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="nezhura_vadim_anatoliyovich.html" crc="4243550768" seo="true" mt="1476381317195" redirect="true"/>
-  <file name="bashmakov_ievgen_anatoliyovich.html" crc="517796185" seo="true" mt="1476978065211" redirect="true"/>
+  <file name="prosud_avramenko_mikola_grigorovich.html" crc="4206570330" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_garnik_lyudmila__leonidivna.html" crc="459084130" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_shevchenko_oleksandr_vasilovich.html" crc="3932349430" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_mamchur_yaroslav_stepanovich.html" crc="4264194663" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_pavlyuk_irina_yuriyivna.html" crc="4273851783" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_paholyuk_anatoliy_mihaylovich.html" crc="131131264" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_fazikosh_ganna_vasilivna.html" crc="4075190847" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="prosud_pyatkovskiy_volodimir_ivanovich.html" crc="3859372409" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="pavlichenko_sergiy_viktorovich.html" crc="176828642" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="kregul_mikola_mikolayovich.html" crc="137014667" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="karpyak_oksana_orestіvna.html" crc="4126633649" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="shilova_tetyana_semenivna.html" crc="3942266311" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="volosko_irina_romanivna.html" crc="45607338" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="ivanishchuk_andriy_anatoliyovich.html" crc="497211476" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="saltan_lyudmila_volodimirivna.html" crc="3820910423" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="krikliviy_oleg_mikolayovich.html" crc="4023427254" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="nezhura_vadim_anatoliyovich.html" crc="290611639" seo="true" mt="1476381317195" redirect="true"/>
+  <file name="bashmakov_ievgen_anatoliyovich.html" crc="4015781943" seo="true" mt="1476978065211" redirect="true"/>
   <file name="petrenko_nataliya_eduardivna.html" crc="110214938" seo="true" mt="1477321426532" redirect="true"/>
   <file name="denisyuk_petro_dmitrovich.html" crc="4136639723" seo="true" mt="1480258018592" redirect="true"/>
-  <file name="konstitucіjnij_sud_ukraini_chastina_1.html" crc="168128043" seo="true" mt="1478016409766" redirect="true"/>
+  <file name="konstitucіjnij_sud_ukraini_chastina_1.html" crc="145229864" seo="true" mt="1478016409766" redirect="true"/>
   <file name="konstitucіjnij_sud_ukraini_chastina_2.html" crc="250545673" seo="true" mt="1478527833190" redirect="true"/>
   <file name="konstitucіjnij_sud_ukraini_chastina_3.html" crc="4143711942" seo="true" mt="1478598506424" redirect="true"/>
   <file name="galonkin_sergiy_anatoliyovich.html" crc="4120223668" seo="true" mt="1479133364009" redirect="true"/>
