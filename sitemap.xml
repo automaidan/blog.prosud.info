@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-05-16</lastmod>
+    <lastmod>2017-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38562.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u39379.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u22342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38562.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg</image:loc>
@@ -4478,7 +4481,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/iemec_anatoliy_anatoliyovich.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <lastmod>2017-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4701,6 +4704,27 @@
       <image:loc>http://blog.prosud.info/images/fedotov12.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov13-crop-u38142.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov14-crop-u38250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fedotov16.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/fedotov17.jpg</image:loc>
     </image:image>
     <image:image>
@@ -4745,26 +4769,113 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/fedotov31.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/ievgrafova_ielizaveta_pavlivna.html</loc>
+    <lastmod>2017-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov13.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov14.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov15.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/evgrafova.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov13-crop-u38142.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/evgrafova1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov14-crop-u38250.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/evgrafova2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38278.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/evgrafova3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fedotov16.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/evgrafova4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova5-crop-u38697.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova6-crop-u38792.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova7-crop-u38820.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova8-crop-u38861.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova1067x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova1168x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova12-crop-u39044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova1660x51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova1760x50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/evgrafova22.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
