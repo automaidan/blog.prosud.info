@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1495792286367">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1495795492724">
   <folder name="css">
     <file name="site_global.css" crc="314806036"/>
-    <file name="master_______-a.css" crc="3877922961" ref="konstitucіjnij_sud_ukraini_chastina_1:epel_oksana_volodimirivna:konstitucіjnij_sud_ukraini_chastina_2:snegirov_vitaliy_andriyovich:konstitucіjnij_sud_ukraini_chastina_3:a_suddі_nasіrova_hto:index:galonkin_sergiy_anatoliyovich:arsiriy_ruslan_oleksandrovich:prosud_sokurenko_dmitro_mihaylovich:popovich_irina_mikolayivna:stratiienko_lyudmila_vasilivna:prosud_video:kiyashko_oleksandr_anatoliyovich:tishchenko_oksana_volodimirivna:prosud_avramenko_mikola_grigorovich:pervushina_olena_sergiyivna:iemec_anatoliy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:tarasyuk_kristina_eduardivna:stupak_olga_v_yacheslavivna:prosud_shevchenko_oleksandr_vasilovich:zhurba_sergiy_oleksandrovich:fedotov_igor_vyacheslavovich:prosud_mamchur_yaroslav_stepanovich:rotmistrenko_mihaylo_volodimirovich:ievgrafova_ielizaveta_pavlivna:prosud_pavlyuk_irina_yuriyivna:basay_oleg_viktorovich:olena-grigorivna-frolova:prosud_paholyuk_anatoliy_mihaylovich:babenko_kostyantin_anatoliyovich:prosud_fazikosh_ganna_vasilivna:buckiy_vasil_valeriyovich:prosud_pyatkovskiy_volodimir_ivanovich:kravchuk_gennadiy_anatoliyovich:pavlichenko_sergiy_viktorovich:bondar_sergiy_volodimirovich:kregul_mikola_mikolayovich:drobotova_tetyana_borisivna:shickiy_ivan_bogdanovich:karpyak_oksana_orestіvna:karaban_volodimir_yakovich:shilova_tetyana_semenivna:danilova_malvina_volodimirivna:volosko_irina_romanivna:lagnyuk_mikola_mihaylovich:ivanishchuk_andriy_anatoliyovich:poprevich_viktor_mihaylovich:saltan_lyudmila_volodimirivna:antonenko_nataliya_oleksandrivna:krikliviy_oleg_mikolayovich:mogil_sergiy_kostyantinovich:nezhura_vadim_anatoliyovich:korotkevich_mikola_ievgenovich:bashmakov_ievgen_anatoliyovich:sirosh_mikola_vasilovich:petrenko_nataliya_eduardivna:oksyuta_taras_grigorovich:denisyuk_petro_dmitrovich:marinchak_ninel_ievgenivna"/>
+    <file name="master_______-a.css" crc="4050214099" ref="konstitucіjnij_sud_ukraini_chastina_1:epel_oksana_volodimirivna:konstitucіjnij_sud_ukraini_chastina_2:snegirov_vitaliy_andriyovich:konstitucіjnij_sud_ukraini_chastina_3:a_suddі_nasіrova_hto:index:galonkin_sergiy_anatoliyovich:arsiriy_ruslan_oleksandrovich:prosud_sokurenko_dmitro_mihaylovich:popovich_irina_mikolayivna:stratiienko_lyudmila_vasilivna:prosud_video:kiyashko_oleksandr_anatoliyovich:tishchenko_oksana_volodimirivna:prosud_avramenko_mikola_grigorovich:pervushina_olena_sergiyivna:iemec_anatoliy_anatoliyovich:prosud_garnik_lyudmila__leonidivna:tarasyuk_kristina_eduardivna:stupak_olga_v_yacheslavivna:prosud_shevchenko_oleksandr_vasilovich:zhurba_sergiy_oleksandrovich:fedotov_igor_vyacheslavovich:prosud_mamchur_yaroslav_stepanovich:rotmistrenko_mihaylo_volodimirovich:ievgrafova_ielizaveta_pavlivna:prosud_pavlyuk_irina_yuriyivna:basay_oleg_viktorovich:olena-grigorivna-frolova:prosud_paholyuk_anatoliy_mihaylovich:babenko_kostyantin_anatoliyovich:prosud_fazikosh_ganna_vasilivna:buckiy_vasil_valeriyovich:prosud_pyatkovskiy_volodimir_ivanovich:kravchuk_gennadiy_anatoliyovich:pavlichenko_sergiy_viktorovich:bondar_sergiy_volodimirovich:kregul_mikola_mikolayovich:drobotova_tetyana_borisivna:shickiy_ivan_bogdanovich:karpyak_oksana_orestіvna:karaban_volodimir_yakovich:shilova_tetyana_semenivna:danilova_malvina_volodimirivna:volosko_irina_romanivna:lagnyuk_mikola_mihaylovich:ivanishchuk_andriy_anatoliyovich:poprevich_viktor_mihaylovich:saltan_lyudmila_volodimirivna:antonenko_nataliya_oleksandrivna:krikliviy_oleg_mikolayovich:mogil_sergiy_kostyantinovich:nezhura_vadim_anatoliyovich:korotkevich_mikola_ievgenovich:bashmakov_ievgen_anatoliyovich:sirosh_mikola_vasilovich:petrenko_nataliya_eduardivna:oksyuta_taras_grigorovich:denisyuk_petro_dmitrovich:marinchak_ninel_ievgenivna"/>
     <file name="konstituc_jnij_sud_ukraini_chastina_1.css" crc="4214560486" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_1.css" crc="3924586049" ref="konstitucіjnij_sud_ukraini_chastina_1"/>
     <file name="epel_oksana_volodimirivna.css" crc="112412819" ref="epel_oksana_volodimirivna"/>
@@ -14,7 +14,7 @@
     <file name="iefonts_konstituc_jnij_sud_ukraini_chastina_3.css" crc="4205432848" ref="konstitucіjnij_sud_ukraini_chastina_3"/>
     <file name="a_sudd__nas_rova_hto.css" crc="3899287529" ref="a_suddі_nasіrova_hto"/>
     <file name="iefonts_a_sudd__nas_rova_hto.css" crc="4259578712" ref="a_suddі_nasіrova_hto"/>
-    <file name="index.css" crc="23722916" ref="index"/>
+    <file name="index.css" crc="122395736" ref="index"/>
     <file name="galonkin_sergiy_anatoliyovich.css" crc="277116045" ref="galonkin_sergiy_anatoliyovich"/>
     <file name="iefonts_galonkin_sergiy_anatoliyovich.css" crc="3977749031" ref="galonkin_sergiy_anatoliyovich"/>
     <file name="arsiriy_ruslan_oleksandrovich.css" crc="3834141235" ref="arsiriy_ruslan_oleksandrovich"/>
@@ -157,9 +157,6 @@
     </file>
     <file name="u2312.png" crc="395734126" ref="index"/>
     <file name="u2312-r.png" crc="3826859124" ref="index"/>
-    <file name="обложка-crop-u22342.jpg" crc="16429316" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="обложка-crop-u40077.jpg" crc="3917358815" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -4664,7 +4661,7 @@
       <caption webpage="shickiy_ivan_bogdanovich" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="59327090" seo="true" mt="1495792178271" redirect="true"/>
+  <file name="index.html" crc="4291473077" seo="true" mt="1495795438360" redirect="true"/>
   <file name="prosud_sokurenko_dmitro_mihaylovich.html" crc="3818268903" seo="true" mt="1476381317195" redirect="true"/>
   <file name="prosud_video.html" crc="171925378" seo="true" mt="1477380016425" redirect="true"/>
   <file name="prosud_avramenko_mikola_grigorovich.html" crc="4199457557" seo="true" mt="1476381317195" redirect="true"/>
