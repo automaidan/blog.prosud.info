@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-05-22</lastmod>
+    <lastmod>2017-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u39379.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u41084.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u22342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u40077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u39379.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38562.jpg</image:loc>
@@ -172,9 +178,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko6-crop-u2321.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u40077.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4247,7 +4250,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/arsiriy_ruslan_oleksandrovich.html</loc>
-    <lastmod>2017-03-14</lastmod>
+    <lastmod>2017-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4975,6 +4978,132 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/frolova12-crop-u39971.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/shickiy_ivan_bogdanovich.html</loc>
+    <lastmod>2017-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy4-crop-u40180.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy5-crop-u40295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy6-crop-u40323.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy7-crop-u40350.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy15-crop-u40429.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy12-crop-u40530.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy13-crop-u40557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy15-crop-u40606.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy16-crop-u40694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy17-crop-u40722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy20-crop-u40892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy18-crop-u40771.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy19-crop-u40871.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy2060x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy21-crop-u40926.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shitskiy25.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
