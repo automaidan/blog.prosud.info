@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -175,6 +175,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko6-crop-u2321.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B05.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4979,7 +4982,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/shickiy_ivan_bogdanovich.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5101,6 +5104,72 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/shitskiy25.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/kovalchuk_larisa_vasilivna.html</loc>
+    <lastmod>2017-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/kovalchuk1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/a_suddi_nad_suddyamy_khto.html</loc>
+    <lastmod>2017-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto6-crop-u41272.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto760x52.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto860x51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vkks_hto12.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
