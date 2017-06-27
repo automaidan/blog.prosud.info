@@ -5292,9 +5292,6 @@
       <image:loc>http://blog.prosud.info/images/krivobok26.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/krivobok27.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/krivobok28.jpg</image:loc>
     </image:image>
     <image:image>
@@ -5323,6 +5320,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/krivobok34-crop-u42451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vw_touareg_30_tdi_v6_scr_4motion_facelift.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
