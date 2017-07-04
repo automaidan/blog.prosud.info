@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-06-28</lastmod>
+    <lastmod>2017-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik_oblozhka-crop-u43515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u42977.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u42533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u41084.jpg</image:loc>
     </image:image>
@@ -18,10 +30,10 @@
       <image:loc>http://blog.prosud.info/images/fedotov15-crop-u38562.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B02.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B03.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u36803.jpg</image:loc>
@@ -48,7 +60,7 @@
       <image:loc>http://blog.prosud.info/images/oksyuta1279x258.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B03.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B04.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lexus_rx-300_r7.jpg</image:loc>
@@ -105,7 +117,7 @@
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u23789.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B04.jpg</image:loc>
+      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B05.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u20690.jpg</image:loc>
@@ -175,15 +187,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko6-crop-u2321.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u42533.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-crop-u42977.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -5172,13 +5175,13 @@
       <image:loc>http://blog.prosud.info/images/vkks_hto10.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/%D0%B1%D0%BE%D1%87%D0%B0%D0%BD.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/vkks_hto11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/vkks_hto12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/%D0%B1%D0%BE%D1%87%D0%B0%D0%BD.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -5295,6 +5298,9 @@
       <image:loc>http://blog.prosud.info/images/krivobok26.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/vw_touareg_30_tdi_v6_scr_4motion_facelift.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/krivobok28.jpg</image:loc>
     </image:image>
     <image:image>
@@ -5324,13 +5330,10 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/krivobok34-crop-u42451.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/vw_touareg_30_tdi_v6_scr_4motion_facelift.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/borzih_dmitro_valeriyovich.html</loc>
-    <lastmod>2017-06-28</lastmod>
+    <lastmod>2017-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -5383,6 +5386,93 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/borzykh13.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/bendik_yaroslav_mikolayovich.html</loc>
+    <lastmod>2017-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik8-crop-u43105.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik9-crop-u43198.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik10-crop-u43226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik660x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik7-crop-u43282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/1010-crop-u43358.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/bendik20.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
