@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -226,6 +226,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oblogka_semenyk-crop-u52644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblozka-crop-u53410.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -6461,7 +6464,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/benedisyuk_igor_mihaylovich.html</loc>
-    <lastmod>2017-08-07</lastmod>
+    <lastmod>2017-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -6730,6 +6733,96 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/semenyk20.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/vasilchenko_oleg_vasilovich.html</loc>
+    <lastmod>2017-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko4-crop-u52849.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko460x23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko560x29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko660x24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko760x24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko9-crop-u53072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko10-crop-u53178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko11-crop-u53206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/vasilchenko19.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
