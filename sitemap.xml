@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-08-22</lastmod>
+    <lastmod>2017-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_borisov-crop-u56503.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lisak_oblozka-crop-u55700.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvidkiy_oblozka-crop-u54751.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_golomsha-crop-u54036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblozka-crop-u53410.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_semenyk-crop-u52644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblozka-crop-u52055.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblozka-crop-u51300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_senyk-crop-u50566.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_milenin-crop-u49883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblozka_zhukova-crop-u48613.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_vishar-crop-u47785.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_petrov-crop-u47337.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dekalenko1-crop-u46630.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oblozka_ledovsky-crop-u46182.jpg</image:loc>
     </image:image>
@@ -200,45 +242,6 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko6-crop-u2321.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/dekalenko1-crop-u46630.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_petrov-crop-u47337.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_vishar-crop-u47785.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblozka_zhukova-crop-u48613.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_milenin-crop-u49883.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_senyk-crop-u50566.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblozka-crop-u51300.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblozka-crop-u52055.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_semenyk-crop-u52644.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblozka-crop-u53410.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_golomsha-crop-u54036.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shvidkiy_oblozka-crop-u54751.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lisak_oblozka-crop-u55700.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/prosud_sokurenko_dmitro_mihaylovich.html</loc>
@@ -259,48 +262,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/sokurenko91.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/sokurenko11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/toyota_land_cruiser_prado_15034-crop-u2041.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/starcraft.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/honda_crv_2008_022.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun-crop-u2104.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun7-crop-u2106.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shokun6-crop-u2102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/sokurenko10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko41.jpg</image:loc>
@@ -331,6 +292,12 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko81-crop-u2017.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/sokurenko91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/sokurenko11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/shokun2.jpg</image:loc>
@@ -367,6 +334,42 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/shokun9-crop-u2084.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/toyota_land_cruiser_prado_15034-crop-u2041.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/starcraft.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/honda_crv_2008_022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun-crop-u2104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun7-crop-u2106.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shokun6-crop-u2102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/sokurenko10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -621,15 +624,6 @@
       <image:loc>http://blog.prosud.info/images/shevchenko2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko17.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/shevchenko7.jpg</image:loc>
     </image:image>
     <image:image>
@@ -684,6 +678,27 @@
       <image:loc>http://blog.prosud.info/images/shevchenko162-crop-u3133.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko20-crop-u3327.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko1861x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevchenko20-crop-u3330.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/20141211_151936.jpg</image:loc>
     </image:image>
     <image:image>
@@ -700,18 +715,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/10750115_881604665184216_2711557940839793668_o68x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko20-crop-u3327.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko1861x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevchenko20-crop-u3330.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -744,18 +747,6 @@
       <image:loc>http://blog.prosud.info/images/mamchur4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/mamchur9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mamchur11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mamchur12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mamchur10.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/mamchur7.jpg</image:loc>
     </image:image>
     <image:image>
@@ -766,6 +757,18 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/mamchur860x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mamchur9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mamchur11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mamchur12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mamchur10.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -798,6 +801,24 @@
       <image:loc>http://blog.prosud.info/images/pavlyuk15.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk111.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk133.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk111-crop-u6009.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk122-crop-u6011.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlyuk133-crop-u6007.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/pavlyuk14.jpg</image:loc>
     </image:image>
     <image:image>
@@ -823,24 +844,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/pavlyuk16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk111.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk122.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk133.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk111-crop-u6009.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk122-crop-u6011.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlyuk133-crop-u6007.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -951,24 +954,6 @@
       <image:loc>http://blog.prosud.info/images/fazikosh7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh19.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh20.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/fazikosh151.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/fazikosh9.jpg</image:loc>
     </image:image>
     <image:image>
@@ -993,6 +978,9 @@
       <image:loc>http://blog.prosud.info/images/fazikosh8-crop-u7801.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh6.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/fazikosh21.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1012,6 +1000,21 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/fazikosh18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/fazikosh151.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1128,6 +1131,36 @@
       <image:loc>http://blog.prosud.info/images/pavlichenko81.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko51-crop-u9491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko475x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko23-crop-u10021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko24-crop-u10017.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/pavlichenko22-crop-u10019.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/pavlichenko91-crop-u9553.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1174,36 +1207,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/pavlichenko21.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko51.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko51-crop-u9491.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko475x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko23.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko24.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko23-crop-u10021.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko24-crop-u10017.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/pavlichenko22-crop-u10019.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1437,6 +1440,24 @@
       <image:loc>http://blog.prosud.info/images/volosko6.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko7-crop-u13333.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko8-crop-u13331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/volosko9-crop-u13335.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/volosko10.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1477,24 +1498,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/volosko23.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko7-crop-u13333.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko8-crop-u13331.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/volosko9-crop-u13335.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1626,15 +1629,6 @@
       <image:loc>http://blog.prosud.info/images/saltan4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/saltan8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/saltan9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/saltan10.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/saltan5.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1651,6 +1645,15 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/saltan7-crop-u14631.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/saltan8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/saltan9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/saltan10.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1683,18 +1686,6 @@
       <image:loc>http://blog.prosud.info/images/krikliviy6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/krikliviy12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/krikliviy13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/krikliviy14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/krikliviy15.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/krikliviy7.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1717,6 +1708,18 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/krikliviy11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/krikliviy12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/krikliviy13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/krikliviy14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/krikliviy15.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1743,12 +1746,6 @@
       <image:loc>http://blog.prosud.info/images/nezhura9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/nezhura101.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/prosud-logo22.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/vlcsnap-error5061.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1767,6 +1764,9 @@
       <image:loc>http://blog.prosud.info/images/vlcsnap-error408-crop-u15932.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/nezhura101.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/nezhura4.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1777,6 +1777,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/nezhura41-crop-u15967.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo22.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -2328,6 +2331,24 @@
       <image:loc>http://blog.prosud.info/images/galonkin1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin2-crop-u20164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin3-crop-u20260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/galonkin4-crop-u20288.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/galonkin5.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2377,24 +2398,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/galonkin18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin2-crop-u20164.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin3-crop-u20260.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/galonkin4-crop-u20288.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -2853,6 +2856,24 @@
       <image:loc>http://blog.prosud.info/images/babenko1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko2-crop-u24162.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko3-crop-u24250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/babenko4-crop-u24278.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/babenko5.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2902,24 +2923,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/babenko18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko2-crop-u24162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko3-crop-u24250.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/babenko4-crop-u24278.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -3228,18 +3231,6 @@
       <image:loc>http://blog.prosud.info/images/karaban1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/karaban7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/karaban7-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/karaban8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/karaban9.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/karaban3.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3259,6 +3250,18 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/karaban6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/karaban7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/karaban7-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/karaban8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/karaban9.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/karaban10.jpg</image:loc>
@@ -3303,7 +3306,43 @@
       <image:loc>http://blog.prosud.info/images/danilova1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova2-crop-u27518.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova3-crop-u27625.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova4-crop-u27653.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/danilova5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova8-crop-u27913.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova6-crop-u27799.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova7-crop-u27891.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova871x45.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/danilova9.jpg</image:loc>
@@ -3342,54 +3381,6 @@
       <image:loc>http://blog.prosud.info/images/danilova18.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova23.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova24.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova25.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova26.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova2-crop-u27518.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova3-crop-u27625.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova4-crop-u27653.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova8-crop-u27913.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova6-crop-u27799.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova7-crop-u27891.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/danilova871x45.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/danilova19-crop-u28176.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3410,6 +3401,18 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/danilova22.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/danilova26.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/lagnyuk_mikola_mihaylovich.html</loc>
@@ -3427,24 +3430,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lagnyuk1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lagnyuk17.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lagnyuk3.jpg</image:loc>
@@ -3499,6 +3484,24 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lagnyuk11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lagnyuk17.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -3570,18 +3573,6 @@
       <image:loc>http://blog.prosud.info/images/antonenko4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/antonenko11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/antonenko12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/antonenko13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/antonenko14.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/antonenko5.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3605,6 +3596,18 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/antonenko10.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/antonenko11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/antonenko12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/antonenko13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/antonenko14.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/mogil_sergiy_kostyantinovich.html</loc>
@@ -3622,6 +3625,30 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/mogil2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil3-crop-u30475.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil360x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil4-crop-u30574.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil5-crop-u30602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/mogil7.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/mogil8.jpg</image:loc>
@@ -3662,30 +3689,6 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/mogil20.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil3-crop-u30475.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil360x49.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil4-crop-u30574.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil5-crop-u30602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/mogil7.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/korotkevich_mikola_ievgenovich.html</loc>
@@ -3700,18 +3703,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/korotkevych1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/korotkevych7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/korotkevych12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/korotkevych13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/korotkevych14.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/korotkevych2.jpg</image:loc>
@@ -3739,6 +3730,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/korotkevych6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/korotkevych7.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/korotkevych8.jpg</image:loc>
@@ -3769,6 +3763,15 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/korotkevych6161x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/korotkevych12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/korotkevych13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/korotkevych14.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -3873,27 +3876,6 @@
       <image:loc>http://blog.prosud.info/images/oksyuta1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta17.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta18.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oksyuta19.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/oksyuta2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -3916,6 +3898,12 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oksyuta6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta8.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oksyuta9-crop-u32476.jpg</image:loc>
@@ -3946,6 +3934,21 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oksyuta14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oksyuta19.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4407,27 +4410,6 @@
       <image:loc>http://blog.prosud.info/images/stratiienko1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/stratiienko15.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/stratiienko2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -4452,6 +4434,12 @@
       <image:loc>http://blog.prosud.info/images/stratiienko5-crop-u35841.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko7.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/stratiienko8.jpg</image:loc>
     </image:image>
     <image:image>
@@ -4468,6 +4456,21 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/stratiienko10-crop-u36036.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/stratiienko15.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -4560,27 +4563,6 @@
       <image:loc>http://blog.prosud.info/images/iemec1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/iemec15.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/iemec2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -4597,6 +4579,18 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/iemec4-crop-u37002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec8.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/iemec9.jpg</image:loc>
@@ -4618,6 +4612,15 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/iemec12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/iemec15.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -5751,46 +5754,28 @@
       <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/tishchenko15.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/tishchenko16.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko32.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/tishchenko4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko62.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko72.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko92.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/tishchenko7-crop-u45241.jpg</image:loc>
@@ -5805,6 +5790,12 @@
       <image:loc>http://blog.prosud.info/images/tishchenko12-crop-u45335.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko112.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/tishchenko1264x45.jpg</image:loc>
     </image:image>
     <image:image>
@@ -5814,7 +5805,19 @@
       <image:loc>http://blog.prosud.info/images/tishchenko1162x45.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko142.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/tishchenko14_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/tishchenko162.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -6911,7 +6914,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/shvidkiy_viktor_vasilovich.html</loc>
-    <lastmod>2017-08-20</lastmod>
+    <lastmod>2017-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -7111,6 +7114,111 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lisak21.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/borisov_sergiy_semenovich.html</loc>
+    <lastmod>2017-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov5-crop-u55794.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov6-crop-u55932.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov7-crop-u55960.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov8-crop-u55988.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov960x53.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov10-crop-u56044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov11-crop-u56072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov16-crop-u56313.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov1460x46.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov1560x53.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov1660x51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/borisov22.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
