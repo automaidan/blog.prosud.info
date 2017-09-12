@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1505127021977">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://blog.prosud.info" resolutions="1x" timestamp="1505230572368">
   <folder name="css">
     <file name="site_global.css" crc="3964644475"/>
     <file name="master_______-a.css" crc="488613337" ref="bashmakov_ievgen_anatoliyovich:borisov_sergiy_semenovich:petrenko_nataliya_eduardivna:stupak_olga_v_yacheslavivna:poprevich_viktor_mihaylovich:golomsha_andriy_mikolayovich:konstitucіjnij_sud_ukraini_chastina_1:epel_oksana_volodimirivna:popovich_irina_mikolayivna:liedovskih_mihaylo_volodimirovich:krikliviy_oleg_mikolayovich:prosud_video:a_suddi_nad_suddyamy_khto:shickiy_ivan_bogdanovich:denisyuk_petro_dmitrovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:milenin_pavlo_oleksandrovich:prosud_mamchur_yaroslav_stepanovich:buckiy_vasil_valeriyovich:petrov_dmitro_vasilovich:pervushina_olena_sergiyivna:varchenko_olga_oleksandrivna:korotkevich_mikola_ievgenovich:babenko_kostyantin_anatoliyovich:antonenko_nataliya_oleksandrivna:kovalchuk_larisa_vasilivna:a_suddі_nasіrova_hto:prosud_paholyuk_anatoliy_mihaylovich:drobotova_tetyana_borisivna:stratiienko_lyudmila_vasilivna:fedotov_igor_vyacheslavovich:benedisyuk_igor_mihaylovich:chujkov_vadym_sergijovych:kiyashko_oleksandr_anatoliyovich:karpyak_oksana_orestіvna:olena-grigorivna-frolova:tarasyuk_kristina_eduardivna:index:galonkin_sergiy_anatoliyovich:vishar_igor_yuriyovich:shilova_tetyana_semenivna:semenyuk_volodimir_anatoliyovich:borzih_dmitro_valeriyovich:ievgrafova_ielizaveta_pavlivna:bendik_yaroslav_mikolayovich:lagnyuk_mikola_mihaylovich:prosud_pavlyuk_irina_yuriyivna:tishchenko_alla_ivanivna:kravchuk_gennadiy_anatoliyovich:marinchak_ninel_ievgenivna:prosud_shevchenko_oleksandr_vasilovich:pavlichenko_sergiy_viktorovich:dekalenko_valentina_stepanivna:arsiriy_ruslan_oleksandrovich:konstitucіjnij_sud_ukraini_chastina_3:kregul_mikola_mikolayovich:basay_oleg_viktorovich:ivanishchuk_andriy_anatoliyovich:snegirov_vitaliy_andriyovich:saltan_lyudmila_volodimirivna:sirosh_mikola_vasilovich:yanko_volodimir_mihaylovich:zhukova_olena_stanislavivna:rotmistrenko_mihaylo_volodimirovich:mogil_sergiy_kostyantinovich:shvidkiy_viktor_vasilovich:senyuk_oleg_volodimirovich:bondar_sergiy_volodimirovich:danilova_malvina_volodimirivna:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:tishchenko_oksana_volodimirivna:kryvobok_yurij_vasylovych:prosud_sokurenko_dmitro_mihaylovich:nezhura_vadim_anatoliyovich:zhurba_sergiy_oleksandrovich:vasilchenko_oleg_vasilovich:konstitucіjnij_sud_ukraini_chastina_2:iemec_anatoliy_anatoliyovich:karaban_volodimir_yakovich:oksyuta_taras_grigorovich:lisak_igor_nikodimovich:volosko_irina_romanivna:brezden_volodimir_ivanovich:frantovska_tetyana_ivanivna:yakubovskiy_maksim_viktorovich:shimon_ivan_petrovich"/>
@@ -174,8 +174,8 @@
     <file name="iefonts_frantovska_tetyana_ivanivna.css" crc="4081727029" ref="frantovska_tetyana_ivanivna"/>
     <file name="yakubovskiy_maksim_viktorovich.css" crc="3947732373" ref="yakubovskiy_maksim_viktorovich"/>
     <file name="iefonts_yakubovskiy_maksim_viktorovich.css" crc="3814297142" ref="yakubovskiy_maksim_viktorovich"/>
-    <file name="shimon_ivan_petrovich.css" crc="79400230" ref="shimon_ivan_petrovich"/>
-    <file name="iefonts_shimon_ivan_petrovich.css" crc="211348724" ref="shimon_ivan_petrovich"/>
+    <file name="shimon_ivan_petrovich.css" crc="4249750157" ref="shimon_ivan_petrovich"/>
+    <file name="iefonts_shimon_ivan_petrovich.css" crc="284381357" ref="shimon_ivan_petrovich"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:prosud_sokurenko_dmitro_mihaylovich:prosud_video:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna:fedotov_igor_vyacheslavovich:ievgrafova_ielizaveta_pavlivna:olena-grigorivna-frolova:shickiy_ivan_bogdanovich:kovalchuk_larisa_vasilivna:a_suddi_nad_suddyamy_khto:kryvobok_yurij_vasylovych:borzih_dmitro_valeriyovich:bendik_yaroslav_mikolayovich:varchenko_olga_oleksandrivna:chujkov_vadym_sergijovych:tishchenko_alla_ivanivna:liedovskih_mihaylo_volodimirovich:dekalenko_valentina_stepanivna:petrov_dmitro_vasilovich:vishar_igor_yuriyovich:zhukova_olena_stanislavivna:milenin_pavlo_oleksandrovich:senyuk_oleg_volodimirovich:benedisyuk_igor_mihaylovich:yanko_volodimir_mihaylovich:semenyuk_volodimir_anatoliyovich:vasilchenko_oleg_vasilovich:golomsha_andriy_mikolayovich:shvidkiy_viktor_vasilovich:lisak_igor_nikodimovich:borisov_sergiy_semenovich:brezden_volodimir_ivanovich:frantovska_tetyana_ivanivna:yakubovskiy_maksim_viktorovich:shimon_ivan_petrovich"/>
@@ -571,177 +571,177 @@
       <caption webpage="prosud_sokurenko_dmitro_mihaylovich" alt=""/>
     </file>
     <file name="prosud-logo2.png" crc="3780763654" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna:fedotov_igor_vyacheslavovich:ievgrafova_ielizaveta_pavlivna:olena-grigorivna-frolova:shickiy_ivan_bogdanovich:a_suddi_nad_suddyamy_khto:kryvobok_yurij_vasylovych:borzih_dmitro_valeriyovich:bendik_yaroslav_mikolayovich:varchenko_olga_oleksandrivna:chujkov_vadym_sergijovych:tishchenko_alla_ivanivna:liedovskih_mihaylo_volodimirovich:dekalenko_valentina_stepanivna:petrov_dmitro_vasilovich:vishar_igor_yuriyovich:zhukova_olena_stanislavivna:milenin_pavlo_oleksandrovich:senyuk_oleg_volodimirovich:benedisyuk_igor_mihaylovich:yanko_volodimir_mihaylovich:semenyuk_volodimir_anatoliyovich:vasilchenko_oleg_vasilovich:golomsha_andriy_mikolayovich:shvidkiy_viktor_vasilovich:lisak_igor_nikodimovich:borisov_sergiy_semenovich:brezden_volodimir_ivanovich:frantovska_tetyana_ivanivna:yakubovskiy_maksim_viktorovich:shimon_ivan_petrovich">
-      <caption webpage="volosko_irina_romanivna" alt=""/>
-      <caption webpage="bendik_yaroslav_mikolayovich" alt=""/>
-      <caption webpage="rotmistrenko_mihaylo_volodimirovich" alt=""/>
-      <caption webpage="basay_oleg_viktorovich" alt=""/>
-      <caption webpage="kravchuk_gennadiy_anatoliyovich" alt=""/>
-      <caption webpage="yanko_volodimir_mihaylovich" alt=""/>
-      <caption webpage="snegirov_vitaliy_andriyovich" alt=""/>
-      <caption webpage="prosud_pavlyuk_irina_yuriyivna" alt=""/>
-      <caption webpage="stupak_olga_v_yacheslavivna" alt=""/>
-      <caption webpage="dekalenko_valentina_stepanivna" alt=""/>
-      <caption webpage="karpyak_oksana_orestіvna" alt=""/>
-      <caption webpage="a_suddі_nasіrova_hto" alt=""/>
-      <caption webpage="kregul_mikola_mikolayovich" alt=""/>
-      <caption webpage="borisov_sergiy_semenovich" alt=""/>
-      <caption webpage="fedotov_igor_vyacheslavovich" alt=""/>
-      <caption webpage="sirosh_mikola_vasilovich" alt=""/>
-      <caption webpage="zhurba_sergiy_oleksandrovich" alt=""/>
-      <caption webpage="shilova_tetyana_semenivna" alt=""/>
+      <caption webpage="denisyuk_petro_dmitrovich" alt=""/>
+      <caption webpage="iemec_anatoliy_anatoliyovich" alt=""/>
       <caption webpage="tishchenko_oksana_volodimirivna" alt=""/>
-      <caption webpage="tarasyuk_kristina_eduardivna" alt=""/>
-      <caption webpage="shvidkiy_viktor_vasilovich" alt=""/>
-      <caption webpage="olena-grigorivna-frolova" alt=""/>
-      <caption webpage="brezden_volodimir_ivanovich" alt=""/>
-      <caption webpage="pavlichenko_sergiy_viktorovich" alt=""/>
-      <caption webpage="tishchenko_alla_ivanivna" alt=""/>
-      <caption webpage="prosud_shevchenko_oleksandr_vasilovich" alt=""/>
       <caption webpage="bondar_sergiy_volodimirovich" alt=""/>
-      <caption webpage="vishar_igor_yuriyovich" alt=""/>
-      <caption webpage="marinchak_ninel_ievgenivna" alt=""/>
       <caption webpage="karaban_volodimir_yakovich" alt=""/>
+      <caption webpage="vishar_igor_yuriyovich" alt=""/>
+      <caption webpage="galonkin_sergiy_anatoliyovich" alt=""/>
+      <caption webpage="varchenko_olga_oleksandrivna" alt=""/>
+      <caption webpage="brezden_volodimir_ivanovich" alt=""/>
+      <caption webpage="poprevich_viktor_mihaylovich" alt=""/>
+      <caption webpage="yanko_volodimir_mihaylovich" alt=""/>
+      <caption webpage="prosud_paholyuk_anatoliy_mihaylovich" alt=""/>
+      <caption webpage="semenyuk_volodimir_anatoliyovich" alt=""/>
+      <caption webpage="korotkevich_mikola_ievgenovich" alt=""/>
+      <caption webpage="snegirov_vitaliy_andriyovich" alt=""/>
+      <caption webpage="arsiriy_ruslan_oleksandrovich" alt=""/>
+      <caption webpage="tishchenko_alla_ivanivna" alt=""/>
+      <caption webpage="sirosh_mikola_vasilovich" alt=""/>
+      <caption webpage="kravchuk_gennadiy_anatoliyovich" alt=""/>
+      <caption webpage="prosud_avramenko_mikola_grigorovich" alt=""/>
+      <caption webpage="pavlichenko_sergiy_viktorovich" alt=""/>
+      <caption webpage="basay_oleg_viktorovich" alt=""/>
+      <caption webpage="epel_oksana_volodimirivna" alt=""/>
+      <caption webpage="a_suddі_nasіrova_hto" alt=""/>
+      <caption webpage="senyuk_oleg_volodimirovich" alt=""/>
+      <caption webpage="prosud_garnik_lyudmila__leonidivna" alt=""/>
+      <caption webpage="volosko_irina_romanivna" alt=""/>
+      <caption webpage="antonenko_nataliya_oleksandrivna" alt=""/>
+      <caption webpage="petrenko_nataliya_eduardivna" alt=""/>
+      <caption webpage="shvidkiy_viktor_vasilovich" alt=""/>
+      <caption webpage="kryvobok_yurij_vasylovych" alt=""/>
       <caption webpage="chujkov_vadym_sergijovych" alt=""/>
       <caption webpage="lisak_igor_nikodimovich" alt=""/>
-      <caption webpage="benedisyuk_igor_mihaylovich" alt=""/>
-      <caption webpage="semenyuk_volodimir_anatoliyovich" alt=""/>
-      <caption webpage="iemec_anatoliy_anatoliyovich" alt=""/>
-      <caption webpage="babenko_kostyantin_anatoliyovich" alt=""/>
-      <caption webpage="prosud_pyatkovskiy_volodimir_ivanovich" alt=""/>
-      <caption webpage="ievgrafova_ielizaveta_pavlivna" alt=""/>
-      <caption webpage="oksyuta_taras_grigorovich" alt=""/>
-      <caption webpage="prosud_avramenko_mikola_grigorovich" alt=""/>
-      <caption webpage="krikliviy_oleg_mikolayovich" alt=""/>
-      <caption webpage="liedovskih_mihaylo_volodimirovich" alt=""/>
-      <caption webpage="bashmakov_ievgen_anatoliyovich" alt=""/>
-      <caption webpage="senyuk_oleg_volodimirovich" alt=""/>
-      <caption webpage="shickiy_ivan_bogdanovich" alt=""/>
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-      <caption webpage="stratiienko_lyudmila_vasilivna" alt=""/>
-      <caption webpage="zhukova_olena_stanislavivna" alt=""/>
       <caption webpage="frantovska_tetyana_ivanivna" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_2" alt=""/>
-      <caption webpage="drobotova_tetyana_borisivna" alt=""/>
-      <caption webpage="prosud_garnik_lyudmila__leonidivna" alt=""/>
-      <caption webpage="kryvobok_yurij_vasylovych" alt=""/>
-      <caption webpage="golomsha_andriy_mikolayovich" alt=""/>
-      <caption webpage="a_suddi_nad_suddyamy_khto" alt=""/>
-      <caption webpage="poprevich_viktor_mihaylovich" alt=""/>
+      <caption webpage="prosud_shevchenko_oleksandr_vasilovich" alt=""/>
       <caption webpage="prosud_sokurenko_dmitro_mihaylovich" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_1" alt=""/>
-      <caption webpage="varchenko_olga_oleksandrivna" alt=""/>
+      <caption webpage="rotmistrenko_mihaylo_volodimirovich" alt=""/>
       <caption webpage="borzih_dmitro_valeriyovich" alt=""/>
-      <caption webpage="antonenko_nataliya_oleksandrivna" alt=""/>
-      <caption webpage="mogil_sergiy_kostyantinovich" alt=""/>
-      <caption webpage="korotkevich_mikola_ievgenovich" alt=""/>
-      <caption webpage="galonkin_sergiy_anatoliyovich" alt=""/>
-      <caption webpage="buckiy_vasil_valeriyovich" alt=""/>
-      <caption webpage="saltan_lyudmila_volodimirivna" alt=""/>
-      <caption webpage="prosud_fazikosh_ganna_vasilivna" alt=""/>
-      <caption webpage="prosud_mamchur_yaroslav_stepanovich" alt=""/>
-      <caption webpage="vasilchenko_oleg_vasilovich" alt=""/>
-      <caption webpage="denisyuk_petro_dmitrovich" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_3" alt=""/>
-      <caption webpage="prosud_paholyuk_anatoliy_mihaylovich" alt=""/>
-      <caption webpage="lagnyuk_mikola_mihaylovich" alt=""/>
+      <caption webpage="stratiienko_lyudmila_vasilivna" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_2" alt=""/>
+      <caption webpage="marinchak_ninel_ievgenivna" alt=""/>
       <caption webpage="yakubovskiy_maksim_viktorovich" alt=""/>
-      <caption webpage="petrov_dmitro_vasilovich" alt=""/>
+      <caption webpage="babenko_kostyantin_anatoliyovich" alt=""/>
       <caption webpage="danilova_malvina_volodimirivna" alt=""/>
-      <caption webpage="milenin_pavlo_oleksandrovich" alt=""/>
-      <caption webpage="popovich_irina_mikolayivna" alt=""/>
-      <caption webpage="petrenko_nataliya_eduardivna" alt=""/>
-      <caption webpage="arsiriy_ruslan_oleksandrovich" alt=""/>
-      <caption webpage="ivanishchuk_andriy_anatoliyovich" alt=""/>
+      <caption webpage="vasilchenko_oleg_vasilovich" alt=""/>
+      <caption webpage="prosud_pyatkovskiy_volodimir_ivanovich" alt=""/>
+      <caption webpage="karpyak_oksana_orestіvna" alt=""/>
+      <caption webpage="lagnyuk_mikola_mihaylovich" alt=""/>
+      <caption webpage="zhukova_olena_stanislavivna" alt=""/>
+      <caption webpage="saltan_lyudmila_volodimirivna" alt=""/>
+      <caption webpage="dekalenko_valentina_stepanivna" alt=""/>
+      <caption webpage="buckiy_vasil_valeriyovich" alt=""/>
+      <caption webpage="bendik_yaroslav_mikolayovich" alt=""/>
+      <caption webpage="shickiy_ivan_bogdanovich" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_1" alt=""/>
+      <caption webpage="a_suddi_nad_suddyamy_khto" alt=""/>
+      <caption webpage="borisov_sergiy_semenovich" alt=""/>
+      <caption webpage="olena-grigorivna-frolova" alt=""/>
+      <caption webpage="benedisyuk_igor_mihaylovich" alt=""/>
+      <caption webpage="mogil_sergiy_kostyantinovich" alt=""/>
+      <caption webpage="krikliviy_oleg_mikolayovich" alt=""/>
+      <caption webpage="zhurba_sergiy_oleksandrovich" alt=""/>
+      <caption webpage="prosud_pavlyuk_irina_yuriyivna" alt=""/>
       <caption webpage="kiyashko_oleksandr_anatoliyovich" alt=""/>
-      <caption webpage="epel_oksana_volodimirivna" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_3" alt=""/>
+      <caption webpage="ivanishchuk_andriy_anatoliyovich" alt=""/>
+      <caption webpage="fedotov_igor_vyacheslavovich" alt=""/>
+      <caption webpage="liedovskih_mihaylo_volodimirovich" alt=""/>
+      <caption webpage="petrov_dmitro_vasilovich" alt=""/>
+      <caption webpage="stupak_olga_v_yacheslavivna" alt=""/>
+      <caption webpage="shilova_tetyana_semenivna" alt=""/>
+      <caption webpage="popovich_irina_mikolayivna" alt=""/>
       <caption webpage="pervushina_olena_sergiyivna" alt=""/>
+      <caption webpage="kregul_mikola_mikolayovich" alt=""/>
+      <caption webpage="ievgrafova_ielizaveta_pavlivna" alt=""/>
+      <caption webpage="prosud_mamchur_yaroslav_stepanovich" alt=""/>
+      <caption webpage="milenin_pavlo_oleksandrovich" alt=""/>
+      <caption webpage="shimon_ivan_petrovich" alt=""/>
+      <caption webpage="tarasyuk_kristina_eduardivna" alt=""/>
+      <caption webpage="bashmakov_ievgen_anatoliyovich" alt=""/>
+      <caption webpage="drobotova_tetyana_borisivna" alt=""/>
+      <caption webpage="prosud_fazikosh_ganna_vasilivna" alt=""/>
+      <caption webpage="oksyuta_taras_grigorovich" alt=""/>
+      <caption webpage="golomsha_andriy_mikolayovich" alt=""/>
     </file>
     <file name="european-automaidan-logo_bigger_черное.png" crc="3894734935" seo="true" ref="prosud_sokurenko_dmitro_mihaylovich:prosud_avramenko_mikola_grigorovich:prosud_garnik_lyudmila__leonidivna:prosud_shevchenko_oleksandr_vasilovich:prosud_mamchur_yaroslav_stepanovich:prosud_pavlyuk_irina_yuriyivna:prosud_paholyuk_anatoliy_mihaylovich:prosud_fazikosh_ganna_vasilivna:prosud_pyatkovskiy_volodimir_ivanovich:pavlichenko_sergiy_viktorovich:kregul_mikola_mikolayovich:karpyak_oksana_orestіvna:shilova_tetyana_semenivna:volosko_irina_romanivna:ivanishchuk_andriy_anatoliyovich:saltan_lyudmila_volodimirivna:krikliviy_oleg_mikolayovich:nezhura_vadim_anatoliyovich:bashmakov_ievgen_anatoliyovich:petrenko_nataliya_eduardivna:denisyuk_petro_dmitrovich:konstitucіjnij_sud_ukraini_chastina_1:konstitucіjnij_sud_ukraini_chastina_2:konstitucіjnij_sud_ukraini_chastina_3:galonkin_sergiy_anatoliyovich:popovich_irina_mikolayivna:kiyashko_oleksandr_anatoliyovich:pervushina_olena_sergiyivna:tarasyuk_kristina_eduardivna:zhurba_sergiy_oleksandrovich:rotmistrenko_mihaylo_volodimirovich:basay_oleg_viktorovich:babenko_kostyantin_anatoliyovich:buckiy_vasil_valeriyovich:kravchuk_gennadiy_anatoliyovich:bondar_sergiy_volodimirovich:drobotova_tetyana_borisivna:karaban_volodimir_yakovich:danilova_malvina_volodimirivna:lagnyuk_mikola_mihaylovich:poprevich_viktor_mihaylovich:antonenko_nataliya_oleksandrivna:mogil_sergiy_kostyantinovich:korotkevich_mikola_ievgenovich:sirosh_mikola_vasilovich:oksyuta_taras_grigorovich:marinchak_ninel_ievgenivna:epel_oksana_volodimirivna:snegirov_vitaliy_andriyovich:a_suddі_nasіrova_hto:arsiriy_ruslan_oleksandrovich:stratiienko_lyudmila_vasilivna:tishchenko_oksana_volodimirivna:iemec_anatoliy_anatoliyovich:stupak_olga_v_yacheslavivna:fedotov_igor_vyacheslavovich:ievgrafova_ielizaveta_pavlivna:olena-grigorivna-frolova:shickiy_ivan_bogdanovich:a_suddi_nad_suddyamy_khto:kryvobok_yurij_vasylovych:borzih_dmitro_valeriyovich:bendik_yaroslav_mikolayovich:varchenko_olga_oleksandrivna:chujkov_vadym_sergijovych:tishchenko_alla_ivanivna:liedovskih_mihaylo_volodimirovich:dekalenko_valentina_stepanivna:petrov_dmitro_vasilovich:vishar_igor_yuriyovich:zhukova_olena_stanislavivna:milenin_pavlo_oleksandrovich:senyuk_oleg_volodimirovich:benedisyuk_igor_mihaylovich:yanko_volodimir_mihaylovich:semenyuk_volodimir_anatoliyovich:vasilchenko_oleg_vasilovich:golomsha_andriy_mikolayovich:shvidkiy_viktor_vasilovich:lisak_igor_nikodimovich:borisov_sergiy_semenovich:brezden_volodimir_ivanovich:frantovska_tetyana_ivanivna:yakubovskiy_maksim_viktorovich:shimon_ivan_petrovich">
-      <caption webpage="volosko_irina_romanivna" alt=""/>
-      <caption webpage="bendik_yaroslav_mikolayovich" alt=""/>
-      <caption webpage="rotmistrenko_mihaylo_volodimirovich" alt=""/>
-      <caption webpage="basay_oleg_viktorovich" alt=""/>
-      <caption webpage="kravchuk_gennadiy_anatoliyovich" alt=""/>
-      <caption webpage="yanko_volodimir_mihaylovich" alt=""/>
-      <caption webpage="snegirov_vitaliy_andriyovich" alt=""/>
-      <caption webpage="prosud_pavlyuk_irina_yuriyivna" alt=""/>
-      <caption webpage="stupak_olga_v_yacheslavivna" alt=""/>
-      <caption webpage="dekalenko_valentina_stepanivna" alt=""/>
-      <caption webpage="a_suddі_nasіrova_hto" alt=""/>
-      <caption webpage="karpyak_oksana_orestіvna" alt=""/>
-      <caption webpage="petrenko_nataliya_eduardivna" alt=""/>
-      <caption webpage="nezhura_vadim_anatoliyovich" alt=""/>
-      <caption webpage="borisov_sergiy_semenovich" alt=""/>
-      <caption webpage="fedotov_igor_vyacheslavovich" alt=""/>
-      <caption webpage="sirosh_mikola_vasilovich" alt=""/>
-      <caption webpage="zhurba_sergiy_oleksandrovich" alt=""/>
-      <caption webpage="shilova_tetyana_semenivna" alt=""/>
+      <caption webpage="drobotova_tetyana_borisivna" alt=""/>
+      <caption webpage="prosud_fazikosh_ganna_vasilivna" alt=""/>
       <caption webpage="tishchenko_oksana_volodimirivna" alt=""/>
-      <caption webpage="tarasyuk_kristina_eduardivna" alt=""/>
-      <caption webpage="shvidkiy_viktor_vasilovich" alt=""/>
-      <caption webpage="olena-grigorivna-frolova" alt=""/>
-      <caption webpage="brezden_volodimir_ivanovich" alt=""/>
-      <caption webpage="pavlichenko_sergiy_viktorovich" alt=""/>
-      <caption webpage="tishchenko_alla_ivanivna" alt=""/>
-      <caption webpage="prosud_shevchenko_oleksandr_vasilovich" alt=""/>
       <caption webpage="bondar_sergiy_volodimirovich" alt=""/>
+      <caption webpage="oksyuta_taras_grigorovich" alt=""/>
       <caption webpage="vishar_igor_yuriyovich" alt=""/>
-      <caption webpage="marinchak_ninel_ievgenivna" alt=""/>
-      <caption webpage="karaban_volodimir_yakovich" alt=""/>
+      <caption webpage="galonkin_sergiy_anatoliyovich" alt=""/>
+      <caption webpage="varchenko_olga_oleksandrivna" alt=""/>
+      <caption webpage="brezden_volodimir_ivanovich" alt=""/>
+      <caption webpage="poprevich_viktor_mihaylovich" alt=""/>
+      <caption webpage="yanko_volodimir_mihaylovich" alt=""/>
+      <caption webpage="prosud_paholyuk_anatoliy_mihaylovich" alt=""/>
+      <caption webpage="semenyuk_volodimir_anatoliyovich" alt=""/>
+      <caption webpage="korotkevich_mikola_ievgenovich" alt=""/>
+      <caption webpage="snegirov_vitaliy_andriyovich" alt=""/>
+      <caption webpage="arsiriy_ruslan_oleksandrovich" alt=""/>
+      <caption webpage="pavlichenko_sergiy_viktorovich" alt=""/>
+      <caption webpage="kregul_mikola_mikolayovich" alt=""/>
+      <caption webpage="sirosh_mikola_vasilovich" alt=""/>
+      <caption webpage="denisyuk_petro_dmitrovich" alt=""/>
+      <caption webpage="kravchuk_gennadiy_anatoliyovich" alt=""/>
+      <caption webpage="prosud_avramenko_mikola_grigorovich" alt=""/>
+      <caption webpage="basay_oleg_viktorovich" alt=""/>
+      <caption webpage="epel_oksana_volodimirivna" alt=""/>
+      <caption webpage="a_suddі_nasіrova_hto" alt=""/>
+      <caption webpage="senyuk_oleg_volodimirovich" alt=""/>
+      <caption webpage="prosud_garnik_lyudmila__leonidivna" alt=""/>
+      <caption webpage="volosko_irina_romanivna" alt=""/>
+      <caption webpage="tishchenko_alla_ivanivna" alt=""/>
+      <caption webpage="kiyashko_oleksandr_anatoliyovich" alt=""/>
+      <caption webpage="shvidkiy_viktor_vasilovich" alt=""/>
+      <caption webpage="kryvobok_yurij_vasylovych" alt=""/>
       <caption webpage="chujkov_vadym_sergijovych" alt=""/>
       <caption webpage="lisak_igor_nikodimovich" alt=""/>
-      <caption webpage="benedisyuk_igor_mihaylovich" alt=""/>
-      <caption webpage="semenyuk_volodimir_anatoliyovich" alt=""/>
-      <caption webpage="iemec_anatoliy_anatoliyovich" alt=""/>
-      <caption webpage="babenko_kostyantin_anatoliyovich" alt=""/>
-      <caption webpage="prosud_pyatkovskiy_volodimir_ivanovich" alt=""/>
-      <caption webpage="ievgrafova_ielizaveta_pavlivna" alt=""/>
-      <caption webpage="oksyuta_taras_grigorovich" alt=""/>
-      <caption webpage="prosud_avramenko_mikola_grigorovich" alt=""/>
-      <caption webpage="krikliviy_oleg_mikolayovich" alt=""/>
-      <caption webpage="liedovskih_mihaylo_volodimirovich" alt=""/>
-      <caption webpage="bashmakov_ievgen_anatoliyovich" alt=""/>
-      <caption webpage="senyuk_oleg_volodimirovich" alt=""/>
-      <caption webpage="shickiy_ivan_bogdanovich" alt=""/>
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-      <caption webpage="stratiienko_lyudmila_vasilivna" alt=""/>
-      <caption webpage="zhukova_olena_stanislavivna" alt=""/>
-      <caption webpage="frantovska_tetyana_ivanivna" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_2" alt=""/>
-      <caption webpage="drobotova_tetyana_borisivna" alt=""/>
-      <caption webpage="prosud_garnik_lyudmila__leonidivna" alt=""/>
-      <caption webpage="kryvobok_yurij_vasylovych" alt=""/>
-      <caption webpage="golomsha_andriy_mikolayovich" alt=""/>
-      <caption webpage="a_suddi_nad_suddyamy_khto" alt=""/>
-      <caption webpage="poprevich_viktor_mihaylovich" alt=""/>
-      <caption webpage="prosud_sokurenko_dmitro_mihaylovich" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_1" alt=""/>
-      <caption webpage="varchenko_olga_oleksandrivna" alt=""/>
-      <caption webpage="borzih_dmitro_valeriyovich" alt=""/>
       <caption webpage="antonenko_nataliya_oleksandrivna" alt=""/>
-      <caption webpage="mogil_sergiy_kostyantinovich" alt=""/>
-      <caption webpage="korotkevich_mikola_ievgenovich" alt=""/>
-      <caption webpage="galonkin_sergiy_anatoliyovich" alt=""/>
-      <caption webpage="buckiy_vasil_valeriyovich" alt=""/>
-      <caption webpage="saltan_lyudmila_volodimirivna" alt=""/>
-      <caption webpage="prosud_fazikosh_ganna_vasilivna" alt=""/>
-      <caption webpage="prosud_mamchur_yaroslav_stepanovich" alt=""/>
-      <caption webpage="vasilchenko_oleg_vasilovich" alt=""/>
-      <caption webpage="denisyuk_petro_dmitrovich" alt=""/>
-      <caption webpage="konstitucіjnij_sud_ukraini_chastina_3" alt=""/>
-      <caption webpage="prosud_paholyuk_anatoliy_mihaylovich" alt=""/>
-      <caption webpage="lagnyuk_mikola_mihaylovich" alt=""/>
+      <caption webpage="frantovska_tetyana_ivanivna" alt=""/>
+      <caption webpage="prosud_shevchenko_oleksandr_vasilovich" alt=""/>
+      <caption webpage="prosud_sokurenko_dmitro_mihaylovich" alt=""/>
+      <caption webpage="rotmistrenko_mihaylo_volodimirovich" alt=""/>
+      <caption webpage="borzih_dmitro_valeriyovich" alt=""/>
+      <caption webpage="stratiienko_lyudmila_vasilivna" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_2" alt=""/>
+      <caption webpage="marinchak_ninel_ievgenivna" alt=""/>
       <caption webpage="yakubovskiy_maksim_viktorovich" alt=""/>
-      <caption webpage="petrov_dmitro_vasilovich" alt=""/>
+      <caption webpage="babenko_kostyantin_anatoliyovich" alt=""/>
       <caption webpage="danilova_malvina_volodimirivna" alt=""/>
-      <caption webpage="milenin_pavlo_oleksandrovich" alt=""/>
-      <caption webpage="popovich_irina_mikolayivna" alt=""/>
-      <caption webpage="kregul_mikola_mikolayovich" alt=""/>
-      <caption webpage="arsiriy_ruslan_oleksandrovich" alt=""/>
+      <caption webpage="vasilchenko_oleg_vasilovich" alt=""/>
+      <caption webpage="prosud_pyatkovskiy_volodimir_ivanovich" alt=""/>
+      <caption webpage="karpyak_oksana_orestіvna" alt=""/>
+      <caption webpage="lagnyuk_mikola_mihaylovich" alt=""/>
+      <caption webpage="zhukova_olena_stanislavivna" alt=""/>
+      <caption webpage="saltan_lyudmila_volodimirivna" alt=""/>
+      <caption webpage="dekalenko_valentina_stepanivna" alt=""/>
+      <caption webpage="buckiy_vasil_valeriyovich" alt=""/>
+      <caption webpage="bendik_yaroslav_mikolayovich" alt=""/>
+      <caption webpage="shickiy_ivan_bogdanovich" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_1" alt=""/>
+      <caption webpage="a_suddi_nad_suddyamy_khto" alt=""/>
+      <caption webpage="borisov_sergiy_semenovich" alt=""/>
+      <caption webpage="olena-grigorivna-frolova" alt=""/>
+      <caption webpage="benedisyuk_igor_mihaylovich" alt=""/>
+      <caption webpage="mogil_sergiy_kostyantinovich" alt=""/>
+      <caption webpage="krikliviy_oleg_mikolayovich" alt=""/>
+      <caption webpage="zhurba_sergiy_oleksandrovich" alt=""/>
+      <caption webpage="prosud_pavlyuk_irina_yuriyivna" alt=""/>
+      <caption webpage="konstitucіjnij_sud_ukraini_chastina_3" alt=""/>
       <caption webpage="ivanishchuk_andriy_anatoliyovich" alt=""/>
-      <caption webpage="kiyashko_oleksandr_anatoliyovich" alt=""/>
-      <caption webpage="epel_oksana_volodimirivna" alt=""/>
+      <caption webpage="fedotov_igor_vyacheslavovich" alt=""/>
+      <caption webpage="bashmakov_ievgen_anatoliyovich" alt=""/>
+      <caption webpage="petrov_dmitro_vasilovich" alt=""/>
+      <caption webpage="stupak_olga_v_yacheslavivna" alt=""/>
+      <caption webpage="shilova_tetyana_semenivna" alt=""/>
+      <caption webpage="popovich_irina_mikolayivna" alt=""/>
       <caption webpage="pervushina_olena_sergiyivna" alt=""/>
+      <caption webpage="iemec_anatoliy_anatoliyovich" alt=""/>
+      <caption webpage="ievgrafova_ielizaveta_pavlivna" alt=""/>
+      <caption webpage="prosud_mamchur_yaroslav_stepanovich" alt=""/>
+      <caption webpage="milenin_pavlo_oleksandrovich" alt=""/>
+      <caption webpage="shimon_ivan_petrovich" alt=""/>
+      <caption webpage="tarasyuk_kristina_eduardivna" alt=""/>
+      <caption webpage="liedovskih_mihaylo_volodimirovich" alt=""/>
+      <caption webpage="nezhura_vadim_anatoliyovich" alt=""/>
+      <caption webpage="petrenko_nataliya_eduardivna" alt=""/>
+      <caption webpage="karaban_volodimir_yakovich" alt=""/>
+      <caption webpage="golomsha_andriy_mikolayovich" alt=""/>
     </file>
     <file name="avramenko21.jpg" crc="449958240" seo="true" ref="prosud_avramenko_mikola_grigorovich">
       <caption webpage="prosud_avramenko_mikola_grigorovich" alt=""/>
@@ -7012,9 +7012,6 @@
     <file name="shimon18.jpg" crc="3975206672" seo="true" ref="shimon_ivan_petrovich">
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
-    <file name="shimon19.jpg" crc="312589300" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
     <file name="shimon20.jpg" crc="345942568" seo="true" ref="shimon_ivan_petrovich">
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
@@ -7022,9 +7019,6 @@
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
     <file name="shimon1860x55.jpg" crc="445600309" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon1967x45.jpg" crc="3767069744" seo="true" ref="shimon_ivan_petrovich">
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
     <file name="shimon20-crop-u59782.jpg" crc="3870229988" seo="true" ref="shimon_ivan_petrovich">
@@ -7049,24 +7043,6 @@
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
     <file name="shimon2460x53.jpg" crc="403561072" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon25.jpg" crc="275189947" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon26.jpg" crc="437171077" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon27-crop-u60133.jpg" crc="26228440" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon2560x48.jpg" crc="348619063" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon2660x50.jpg" crc="4109278427" seo="true" ref="shimon_ivan_petrovich">
-      <caption webpage="shimon_ivan_petrovich" alt=""/>
-    </file>
-    <file name="shimon2767x45.jpg" crc="58916336" seo="true" ref="shimon_ivan_petrovich">
       <caption webpage="shimon_ivan_petrovich" alt=""/>
     </file>
     <file name="shimon29.jpg" crc="19930534" seo="true" ref="shimon_ivan_petrovich">
@@ -7160,5 +7136,5 @@
   <file name="brezden_volodimir_ivanovich.html" crc="348742723" seo="true" mt="1504115218009" redirect="true"/>
   <file name="frantovska_tetyana_ivanivna.html" crc="4026201252" seo="true" mt="1504600771221" redirect="true"/>
   <file name="yakubovskiy_maksim_viktorovich.html" crc="116307605" seo="true" mt="1505041471549" redirect="true"/>
-  <file name="shimon_ivan_petrovich.html" crc="3763787641" seo="true" mt="1505126952254" redirect="true"/>
+  <file name="shimon_ivan_petrovich.html" crc="4273996106" seo="true" mt="1505230460061" redirect="true"/>
 </manifest>
