@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-09-26</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -271,6 +271,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/ologka_popesko-crop-u65178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin1-crop-u66743.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8222,7 +8225,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/popesko_oleksandr_petrovich.html</loc>
-    <lastmod>2017-09-26</lastmod>
+    <lastmod>2017-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -8329,6 +8332,240 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/popesko25.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/ilyin_mikita_gennadiyovich.html</loc>
+    <lastmod>2017-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin18-crop-u65915.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin19-crop-u65942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin20-crop-u65970.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin5-crop-u65379.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin6-crop-u65423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin7-crop-u65451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin8-crop-u65479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin9-crop-u65507.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin10-crop-u65534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin11-crop-u65562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin12-crop-u65590.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin13-crop-u65618.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin15-crop-u65674.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin17-crop-u65730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin18-crop-u65758.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin21-crop-u65998.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin22-crop-u66026.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin23-crop-u66054.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin34.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin35.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin36.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin37.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin38.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin39.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin40.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin41.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin43.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin44.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin46.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin44-crop-u66319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin45-crop-u66424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin46-crop-u66452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin49-crop-u66512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin5063x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin5166x45.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
