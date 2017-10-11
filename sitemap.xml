@@ -8819,7 +8819,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/samoylik_sergiy_anatoliyovich.html</loc>
-    <lastmod>2017-10-10</lastmod>
+    <lastmod>2017-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -8995,6 +8995,12 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/samoylik39.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/samoylik15-crop-u69730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/samoylik1560x50.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
