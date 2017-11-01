@@ -2,9 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas_oblogka-crop-u75596.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/torovanin_oblozka-crop-u74545.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/komashko_oblogka-crop-u73867.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/garnik_kirilo11-crop-u72016.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_livochka-crop-u71229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/samoilik_oblogka-crop-u69713.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_filchakov-crop-u68365.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/sanin_oblozka-crop-u67723.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/illin1-crop-u66743.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/ologka_popesko-crop-u65178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dji_0889-crop-u64424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_solonska-crop-u63401.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shevcova_oblozka-crop-u62361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_lomakina-crop-u61648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/lyashchenko_oblozka-crop-u61083.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_shimon-crop-u60284.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakubovskiy_oblozka-crop-u58908.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_frantovska-crop-u58199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/oblogka_brezden-crop-u57515.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oblogka_borisov-crop-u56503.jpg</image:loc>
     </image:image>
@@ -241,60 +298,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sokurenko6-crop-u2321.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_brezden-crop-u57515.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_frantovska-crop-u58199.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/yakubovskiy_oblozka-crop-u58908.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_shimon-crop-u60284.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/lyashchenko_oblozka-crop-u61083.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_lomakina-crop-u61648.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/shevcova_oblozka-crop-u62361.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_solonska-crop-u63401.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/dji_0889-crop-u64424.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/ologka_popesko-crop-u65178.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/illin1-crop-u66743.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/sanin_oblozka-crop-u67723.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_filchakov-crop-u68365.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/samoilik_oblogka-crop-u69713.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/oblogka_livochka-crop-u71229.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/garnik_kirilo11-crop-u72016.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/komashko_oblogka-crop-u73867.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/torovanin_oblozka-crop-u74545.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -8898,10 +8901,16 @@
       <image:loc>http://blog.prosud.info/images/samoylik14.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/samoylik15-crop-u69730.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/samoylik13-crop-u68759.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/samoylik1460x47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/samoylik1560x50.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/samoylik16.jpg</image:loc>
@@ -9007,12 +9016,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/samoylik39.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/samoylik15-crop-u69730.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/samoylik1560x50.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -9506,7 +9509,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/torovanin_volodimir_dmitrovich.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -9583,6 +9586,144 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/torovanin15.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/dunas_taras_omelyanovich.html</loc>
+    <lastmod>2017-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas6-crop-u74796.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas8-crop-u74823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas10-crop-u74880.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas3-crop-u74626.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas4-crop-u74746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas5-crop-u74774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas10-crop-u74886.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas21-crop-u75168.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas22-crop-u75196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas2068x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas2160x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas26-crop-u75281.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas27-crop-u75398.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas2866x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas2966x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/dunas32.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
