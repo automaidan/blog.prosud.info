@@ -311,6 +311,9 @@
     <image:image>
       <image:loc>http://blog.prosud.info/images/sutko1-crop-u79818.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy_oblozka-crop-u80695.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://blog.prosud.info/prosud_sokurenko_dmitro_mihaylovich.html</loc>
@@ -9929,7 +9932,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/prisyazhnyuk_oleg_bogdanovich.html</loc>
-    <lastmod>2017-11-13</lastmod>
+    <lastmod>2017-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10198,6 +10201,102 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/sutko17.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/zhiznievskiy_yuriy_vasilovich.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy3-crop-u80015.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy2-crop-u79885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy3-crop-u80021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy4-crop-u80048.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy5-crop-u80076.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy671x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy7-crop-u80221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy8-crop-u80241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy9-crop-u80332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy10-crop-u80360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy13-crop-u80404.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy1368x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy1469x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy1572x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/zhiznievskiy12-crop-u80569.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
