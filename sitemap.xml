@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2017-11-26</lastmod>
+    <lastmod>2017-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -316,6 +316,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/oblogka_lukashenko-crop-u82342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1-crop-u83445.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -10304,7 +10307,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/lukashenko_oleksandr_oleksandrovich.html</loc>
-    <lastmod>2017-11-26</lastmod>
+    <lastmod>2017-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10474,6 +10477,135 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/lukashenko32.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/maksimenceva_nadiya_oleksandrivna.html</loc>
+    <lastmod>2017-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova4-crop-u82558.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova3-crop-u82439.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova460x22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova560x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova675x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova968x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1160x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova12-crop-u82841.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1361x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1460x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova17-crop-u83122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova15-crop-u83012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1662x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1760x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova18-crop-u83148.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1871x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova1960x51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova2060x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/maksimentsova24.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
