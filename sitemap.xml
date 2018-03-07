@@ -12479,7 +12479,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/veselska_tetyana_fedorivna.html</loc>
-    <lastmod>2018-03-06</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12489,6 +12489,9 @@
       <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blog.prosud.info/images/veselska1.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blog.prosud.info/images/veselska12.jpg</image:loc>
     </image:image>
     <image:image>
@@ -12496,9 +12499,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/veselska4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska5.jpg</image:loc>
@@ -12529,9 +12529,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/veselska122.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska13.jpg</image:loc>
@@ -12594,9 +12591,6 @@
       <image:loc>http://blog.prosud.info/images/veselska25.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blog.prosud.info/images/veselska26.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blog.prosud.info/images/veselska27.jpg</image:loc>
     </image:image>
     <image:image>
@@ -12631,6 +12625,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska3460x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/12670600_725332114270916_3853222454012581442_n.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
