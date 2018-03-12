@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2018-03-06</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -379,6 +379,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova_oblozka-crop-u98836.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -12479,7 +12482,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/veselska_tetyana_fedorivna.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12487,9 +12490,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blog.prosud.info/images/veselska1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/veselska12.jpg</image:loc>
@@ -12625,6 +12625,57 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/12670600_725332114270916_3853222454012581442_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/veselska122.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/shvecova_larisa_anatoliyivna.html</loc>
+    <lastmod>2018-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova2-crop-u98668.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova3-crop-u98548.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova4-crop-u98646.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova260x51.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/shvecova9.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
