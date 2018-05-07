@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blog.prosud.info/index.html</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -424,6 +424,9 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/repetskiy1-crop-u111175.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko_oblozka-crop-u112279.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -13961,7 +13964,7 @@
   </url>
   <url>
     <loc>http://blog.prosud.info/pletnov_volodimir_vasilovich.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14296,6 +14299,138 @@
     </image:image>
     <image:image>
       <image:loc>http://blog.prosud.info/images/repetskiy10.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://blog.prosud.info/yakimenko_marina_mikolayivna.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/prosud-logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/european-automaidan-logo_bigger_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko264x28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko360x31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko460x31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko6-crop-u111608.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko10-crop-u111435.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko8-crop-u111530.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko9-crop-u111558.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko760x50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko11-crop-u111664.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko12-crop-u111776.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko13-crop-u111804.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko15-crop-u111827.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko1472x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko1662x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko20.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko21-crop-u112130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko22-crop-u112158.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko23-crop-u112046.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blog.prosud.info/images/yakimenko22.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
